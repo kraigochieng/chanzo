@@ -1,109 +1,1729 @@
-Student Name,Subject,Subject Category,Term,Grade
-Timothy,English,Languages,1,B
-Timothy,English,Languages,2,C
-Timothy,English,Languages,3,A
-Timothy,English,Languages,1,E
-Timothy,English,Languages,2,A
-Timothy,English,Languages,3,B
-Timothy,Spanish,Languages,1,E
-Timothy,Spanish,Languages,2,A
-Timothy,Spanish,Languages,3,A
-Timothy,Spanish,Languages,1,D
-Timothy,Spanish,Languages,2,D
-Timothy,Spanish,Languages,3,B
-Timothy,Math,Sciences,1,A
-Timothy,Math,Sciences,2,D
-Timothy,Math,Sciences,3,D
-Timothy,Math,Sciences,1,E
-Timothy,Math,Sciences,2,C
-Timothy,Math,Sciences,3,A
-Timothy,Physics,Sciences,1,D
-Timothy,Physics,Sciences,2,A
-Timothy,Physics,Sciences,3,E
-Timothy,Physics,Sciences,1,B
-Timothy,Physics,Sciences,2,D
-Timothy,Physics,Sciences,3,A
-Timothy,Geography,Humanities,1,E
-Timothy,Geography,Humanities,2,B
-Timothy,Geography,Humanities,3,C
-Timothy,Geography,Humanities,1,E
-Timothy,Geography,Humanities,2,A
-Timothy,Geography,Humanities,3,A
-Timothy,History,Humanities,1,C
-Timothy,History,Humanities,2,E
-Timothy,History,Humanities,3,C
-Timothy,History,Humanities,1,C
-Timothy,History,Humanities,2,A
-Timothy,History,Humanities,3,A
-Jaime,English,Languages,1,C
-Jaime,English,Languages,2,A
-Jaime,English,Languages,3,A
-Jaime,English,Languages,1,C
-Jaime,English,Languages,2,A
-Jaime,English,Languages,3,A
-Jaime,Spanish,Languages,1,C
-Jaime,Spanish,Languages,2,A
-Jaime,Spanish,Languages,3,B
-Jaime,Spanish,Languages,1,C
-Jaime,Spanish,Languages,2,B
-Jaime,Spanish,Languages,3,B
-Jaime,Math,Sciences,1,C
-Jaime,Math,Sciences,2,B
-Jaime,Math,Sciences,3,A
-Jaime,Math,Sciences,1,E
-Jaime,Math,Sciences,2,C
-Jaime,Math,Sciences,3,D
-Jaime,Physics,Sciences,1,E
-Jaime,Physics,Sciences,2,C
-Jaime,Physics,Sciences,3,E
-Jaime,Physics,Sciences,1,D
-Jaime,Physics,Sciences,2,B
-Jaime,Physics,Sciences,3,D
-Jaime,Geography,Humanities,1,D
-Jaime,Geography,Humanities,2,D
-Jaime,Geography,Humanities,3,C
-Jaime,Geography,Humanities,1,D
-Jaime,Geography,Humanities,2,D
-Jaime,Geography,Humanities,3,D
-Jaime,History,Humanities,1,D
-Jaime,History,Humanities,2,A
-Jaime,History,Humanities,3,E
-Jaime,History,Humanities,1,C
-Jaime,History,Humanities,2,B
-Jaime,History,Humanities,3,E
-Willie,English,Languages,1,C
-Willie,English,Languages,2,A
-Willie,English,Languages,3,E
-Willie,English,Languages,1,B
-Willie,English,Languages,2,B
-Willie,English,Languages,3,A
-Willie,Spanish,Languages,1,D
-Willie,Spanish,Languages,2,A
-Willie,Spanish,Languages,3,D
-Willie,Spanish,Languages,1,C
-Willie,Spanish,Languages,2,E
-Willie,Spanish,Languages,3,D
-Willie,Math,Sciences,1,D
-Willie,Math,Sciences,2,A
-Willie,Math,Sciences,3,B
-Willie,Math,Sciences,1,A
-Willie,Math,Sciences,2,E
-Willie,Math,Sciences,3,A
-Willie,Physics,Sciences,1,B
-Willie,Physics,Sciences,2,D
-Willie,Physics,Sciences,3,B
-Willie,Physics,Sciences,1,D
-Willie,Physics,Sciences,2,A
-Willie,Physics,Sciences,3,A
-Willie,Geography,Humanities,1,A
-Willie,Geography,Humanities,2,B
-Willie,Geography,Humanities,3,A
-Willie,Geography,Humanities,1,B
-Willie,Geography,Humanities,2,A
-Willie,Geography,Humanities,3,B
-Willie,History,Humanities,1,D
-Willie,History,Humanities,2,E
-Willie,History,Humanities,3,A
-Willie,History,Humanities,1,E
-Willie,History,Humanities,2,E
-Willie,History,Humanities,3,C
+Class,Stream,Student Name,Subject Category,Subject,Subject Strand,Term,Grade
+1,Yellow,Edwin,Languages,English,English Reading,1,A
+1,Yellow,Edwin,Languages,English,English Reading,2,D
+1,Yellow,Edwin,Languages,English,English Reading,3,A
+1,Yellow,Edwin,Languages,English,English Writing,1,D
+1,Yellow,Edwin,Languages,English,English Writing,2,A
+1,Yellow,Edwin,Languages,English,English Writing,3,A
+1,Yellow,Edwin,Languages,Spanish,Vocabulary,1,D
+1,Yellow,Edwin,Languages,Spanish,Vocabulary,2,B
+1,Yellow,Edwin,Languages,Spanish,Vocabulary,3,E
+1,Yellow,Edwin,Languages,Spanish,Spanish Grammar,1,B
+1,Yellow,Edwin,Languages,Spanish,Spanish Grammar,2,C
+1,Yellow,Edwin,Languages,Spanish,Spanish Grammar,3,E
+1,Yellow,Edwin,Sciences,Math,Algebra,1,A
+1,Yellow,Edwin,Sciences,Math,Algebra,2,B
+1,Yellow,Edwin,Sciences,Math,Algebra,3,A
+1,Yellow,Edwin,Sciences,Math,Geometry,1,A
+1,Yellow,Edwin,Sciences,Math,Geometry,2,B
+1,Yellow,Edwin,Sciences,Math,Geometry,3,B
+1,Yellow,Edwin,Sciences,Physics,Mechanics,1,A
+1,Yellow,Edwin,Sciences,Physics,Mechanics,2,A
+1,Yellow,Edwin,Sciences,Physics,Mechanics,3,A
+1,Yellow,Edwin,Sciences,Physics,Thermodynamics,1,D
+1,Yellow,Edwin,Sciences,Physics,Thermodynamics,2,B
+1,Yellow,Edwin,Sciences,Physics,Thermodynamics,3,A
+1,Yellow,Edwin,Humanities,Geography,Physical Geography,1,E
+1,Yellow,Edwin,Humanities,Geography,Physical Geography,2,E
+1,Yellow,Edwin,Humanities,Geography,Physical Geography,3,D
+1,Yellow,Edwin,Humanities,Geography,Human Geography,1,B
+1,Yellow,Edwin,Humanities,Geography,Human Geography,2,E
+1,Yellow,Edwin,Humanities,Geography,Human Geography,3,E
+1,Yellow,Edwin,Humanities,History,Ancient History,1,E
+1,Yellow,Edwin,Humanities,History,Ancient History,2,C
+1,Yellow,Edwin,Humanities,History,Ancient History,3,D
+1,Yellow,Edwin,Humanities,History,Medieval History,1,E
+1,Yellow,Edwin,Humanities,History,Medieval History,2,C
+1,Yellow,Edwin,Humanities,History,Medieval History,3,D
+1,Yellow,Leah,Languages,English,English Reading,1,E
+1,Yellow,Leah,Languages,English,English Reading,2,E
+1,Yellow,Leah,Languages,English,English Reading,3,D
+1,Yellow,Leah,Languages,English,English Writing,1,D
+1,Yellow,Leah,Languages,English,English Writing,2,B
+1,Yellow,Leah,Languages,English,English Writing,3,E
+1,Yellow,Leah,Languages,Spanish,Vocabulary,1,E
+1,Yellow,Leah,Languages,Spanish,Vocabulary,2,D
+1,Yellow,Leah,Languages,Spanish,Vocabulary,3,E
+1,Yellow,Leah,Languages,Spanish,Spanish Grammar,1,D
+1,Yellow,Leah,Languages,Spanish,Spanish Grammar,2,C
+1,Yellow,Leah,Languages,Spanish,Spanish Grammar,3,C
+1,Yellow,Leah,Sciences,Math,Algebra,1,A
+1,Yellow,Leah,Sciences,Math,Algebra,2,A
+1,Yellow,Leah,Sciences,Math,Algebra,3,B
+1,Yellow,Leah,Sciences,Math,Geometry,1,B
+1,Yellow,Leah,Sciences,Math,Geometry,2,A
+1,Yellow,Leah,Sciences,Math,Geometry,3,A
+1,Yellow,Leah,Sciences,Physics,Mechanics,1,C
+1,Yellow,Leah,Sciences,Physics,Mechanics,2,A
+1,Yellow,Leah,Sciences,Physics,Mechanics,3,A
+1,Yellow,Leah,Sciences,Physics,Thermodynamics,1,B
+1,Yellow,Leah,Sciences,Physics,Thermodynamics,2,A
+1,Yellow,Leah,Sciences,Physics,Thermodynamics,3,A
+1,Yellow,Leah,Humanities,Geography,Physical Geography,1,B
+1,Yellow,Leah,Humanities,Geography,Physical Geography,2,A
+1,Yellow,Leah,Humanities,Geography,Physical Geography,3,A
+1,Yellow,Leah,Humanities,Geography,Human Geography,1,A
+1,Yellow,Leah,Humanities,Geography,Human Geography,2,A
+1,Yellow,Leah,Humanities,Geography,Human Geography,3,A
+1,Yellow,Leah,Humanities,History,Ancient History,1,C
+1,Yellow,Leah,Humanities,History,Ancient History,2,A
+1,Yellow,Leah,Humanities,History,Ancient History,3,C
+1,Yellow,Leah,Humanities,History,Medieval History,1,B
+1,Yellow,Leah,Humanities,History,Medieval History,2,B
+1,Yellow,Leah,Humanities,History,Medieval History,3,A
+1,Yellow,Francisco,Languages,English,English Reading,1,A
+1,Yellow,Francisco,Languages,English,English Reading,2,B
+1,Yellow,Francisco,Languages,English,English Reading,3,A
+1,Yellow,Francisco,Languages,English,English Writing,1,A
+1,Yellow,Francisco,Languages,English,English Writing,2,B
+1,Yellow,Francisco,Languages,English,English Writing,3,A
+1,Yellow,Francisco,Languages,Spanish,Vocabulary,1,A
+1,Yellow,Francisco,Languages,Spanish,Vocabulary,2,B
+1,Yellow,Francisco,Languages,Spanish,Vocabulary,3,A
+1,Yellow,Francisco,Languages,Spanish,Spanish Grammar,1,C
+1,Yellow,Francisco,Languages,Spanish,Spanish Grammar,2,D
+1,Yellow,Francisco,Languages,Spanish,Spanish Grammar,3,D
+1,Yellow,Francisco,Sciences,Math,Algebra,1,D
+1,Yellow,Francisco,Sciences,Math,Algebra,2,C
+1,Yellow,Francisco,Sciences,Math,Algebra,3,C
+1,Yellow,Francisco,Sciences,Math,Geometry,1,E
+1,Yellow,Francisco,Sciences,Math,Geometry,2,E
+1,Yellow,Francisco,Sciences,Math,Geometry,3,B
+1,Yellow,Francisco,Sciences,Physics,Mechanics,1,E
+1,Yellow,Francisco,Sciences,Physics,Mechanics,2,D
+1,Yellow,Francisco,Sciences,Physics,Mechanics,3,E
+1,Yellow,Francisco,Sciences,Physics,Thermodynamics,1,C
+1,Yellow,Francisco,Sciences,Physics,Thermodynamics,2,C
+1,Yellow,Francisco,Sciences,Physics,Thermodynamics,3,C
+1,Yellow,Francisco,Humanities,Geography,Physical Geography,1,A
+1,Yellow,Francisco,Humanities,Geography,Physical Geography,2,A
+1,Yellow,Francisco,Humanities,Geography,Physical Geography,3,A
+1,Yellow,Francisco,Humanities,Geography,Human Geography,1,A
+1,Yellow,Francisco,Humanities,Geography,Human Geography,2,B
+1,Yellow,Francisco,Humanities,Geography,Human Geography,3,C
+1,Yellow,Francisco,Humanities,History,Ancient History,1,A
+1,Yellow,Francisco,Humanities,History,Ancient History,2,A
+1,Yellow,Francisco,Humanities,History,Ancient History,3,B
+1,Yellow,Francisco,Humanities,History,Medieval History,1,B
+1,Yellow,Francisco,Humanities,History,Medieval History,2,A
+1,Yellow,Francisco,Humanities,History,Medieval History,3,C
+1,Yellow,Christopher,Languages,English,English Reading,1,C
+1,Yellow,Christopher,Languages,English,English Reading,2,E
+1,Yellow,Christopher,Languages,English,English Reading,3,C
+1,Yellow,Christopher,Languages,English,English Writing,1,C
+1,Yellow,Christopher,Languages,English,English Writing,2,E
+1,Yellow,Christopher,Languages,English,English Writing,3,C
+1,Yellow,Christopher,Languages,Spanish,Vocabulary,1,E
+1,Yellow,Christopher,Languages,Spanish,Vocabulary,2,E
+1,Yellow,Christopher,Languages,Spanish,Vocabulary,3,D
+1,Yellow,Christopher,Languages,Spanish,Spanish Grammar,1,B
+1,Yellow,Christopher,Languages,Spanish,Spanish Grammar,2,C
+1,Yellow,Christopher,Languages,Spanish,Spanish Grammar,3,E
+1,Yellow,Christopher,Sciences,Math,Algebra,1,A
+1,Yellow,Christopher,Sciences,Math,Algebra,2,B
+1,Yellow,Christopher,Sciences,Math,Algebra,3,A
+1,Yellow,Christopher,Sciences,Math,Geometry,1,A
+1,Yellow,Christopher,Sciences,Math,Geometry,2,A
+1,Yellow,Christopher,Sciences,Math,Geometry,3,A
+1,Yellow,Christopher,Sciences,Physics,Mechanics,1,A
+1,Yellow,Christopher,Sciences,Physics,Mechanics,2,B
+1,Yellow,Christopher,Sciences,Physics,Mechanics,3,A
+1,Yellow,Christopher,Sciences,Physics,Thermodynamics,1,A
+1,Yellow,Christopher,Sciences,Physics,Thermodynamics,2,B
+1,Yellow,Christopher,Sciences,Physics,Thermodynamics,3,B
+1,Yellow,Christopher,Humanities,Geography,Physical Geography,1,B
+1,Yellow,Christopher,Humanities,Geography,Physical Geography,2,C
+1,Yellow,Christopher,Humanities,Geography,Physical Geography,3,A
+1,Yellow,Christopher,Humanities,Geography,Human Geography,1,A
+1,Yellow,Christopher,Humanities,Geography,Human Geography,2,B
+1,Yellow,Christopher,Humanities,Geography,Human Geography,3,B
+1,Yellow,Christopher,Humanities,History,Ancient History,1,B
+1,Yellow,Christopher,Humanities,History,Ancient History,2,A
+1,Yellow,Christopher,Humanities,History,Ancient History,3,B
+1,Yellow,Christopher,Humanities,History,Medieval History,1,B
+1,Yellow,Christopher,Humanities,History,Medieval History,2,C
+1,Yellow,Christopher,Humanities,History,Medieval History,3,C
+1,Yellow,Kelly,Languages,English,English Reading,1,A
+1,Yellow,Kelly,Languages,English,English Reading,2,A
+1,Yellow,Kelly,Languages,English,English Reading,3,B
+1,Yellow,Kelly,Languages,English,English Writing,1,A
+1,Yellow,Kelly,Languages,English,English Writing,2,A
+1,Yellow,Kelly,Languages,English,English Writing,3,B
+1,Yellow,Kelly,Languages,Spanish,Vocabulary,1,B
+1,Yellow,Kelly,Languages,Spanish,Vocabulary,2,C
+1,Yellow,Kelly,Languages,Spanish,Vocabulary,3,B
+1,Yellow,Kelly,Languages,Spanish,Spanish Grammar,1,B
+1,Yellow,Kelly,Languages,Spanish,Spanish Grammar,2,A
+1,Yellow,Kelly,Languages,Spanish,Spanish Grammar,3,C
+1,Yellow,Kelly,Sciences,Math,Algebra,1,B
+1,Yellow,Kelly,Sciences,Math,Algebra,2,C
+1,Yellow,Kelly,Sciences,Math,Algebra,3,B
+1,Yellow,Kelly,Sciences,Math,Geometry,1,A
+1,Yellow,Kelly,Sciences,Math,Geometry,2,B
+1,Yellow,Kelly,Sciences,Math,Geometry,3,A
+1,Yellow,Kelly,Sciences,Physics,Mechanics,1,A
+1,Yellow,Kelly,Sciences,Physics,Mechanics,2,B
+1,Yellow,Kelly,Sciences,Physics,Mechanics,3,A
+1,Yellow,Kelly,Sciences,Physics,Thermodynamics,1,B
+1,Yellow,Kelly,Sciences,Physics,Thermodynamics,2,C
+1,Yellow,Kelly,Sciences,Physics,Thermodynamics,3,B
+1,Yellow,Kelly,Humanities,Geography,Physical Geography,1,C
+1,Yellow,Kelly,Humanities,Geography,Physical Geography,2,E
+1,Yellow,Kelly,Humanities,Geography,Physical Geography,3,D
+1,Yellow,Kelly,Humanities,Geography,Human Geography,1,E
+1,Yellow,Kelly,Humanities,Geography,Human Geography,2,C
+1,Yellow,Kelly,Humanities,Geography,Human Geography,3,A
+1,Yellow,Kelly,Humanities,History,Ancient History,1,A
+1,Yellow,Kelly,Humanities,History,Ancient History,2,C
+1,Yellow,Kelly,Humanities,History,Ancient History,3,C
+1,Yellow,Kelly,Humanities,History,Medieval History,1,E
+1,Yellow,Kelly,Humanities,History,Medieval History,2,C
+1,Yellow,Kelly,Humanities,History,Medieval History,3,D
+1,Yellow,Omar,Languages,English,English Reading,1,A
+1,Yellow,Omar,Languages,English,English Reading,2,A
+1,Yellow,Omar,Languages,English,English Reading,3,A
+1,Yellow,Omar,Languages,English,English Writing,1,A
+1,Yellow,Omar,Languages,English,English Writing,2,A
+1,Yellow,Omar,Languages,English,English Writing,3,B
+1,Yellow,Omar,Languages,Spanish,Vocabulary,1,A
+1,Yellow,Omar,Languages,Spanish,Vocabulary,2,A
+1,Yellow,Omar,Languages,Spanish,Vocabulary,3,A
+1,Yellow,Omar,Languages,Spanish,Spanish Grammar,1,A
+1,Yellow,Omar,Languages,Spanish,Spanish Grammar,2,A
+1,Yellow,Omar,Languages,Spanish,Spanish Grammar,3,A
+1,Yellow,Omar,Sciences,Math,Algebra,1,A
+1,Yellow,Omar,Sciences,Math,Algebra,2,B
+1,Yellow,Omar,Sciences,Math,Algebra,3,E
+1,Yellow,Omar,Sciences,Math,Geometry,1,E
+1,Yellow,Omar,Sciences,Math,Geometry,2,B
+1,Yellow,Omar,Sciences,Math,Geometry,3,A
+1,Yellow,Omar,Sciences,Physics,Mechanics,1,D
+1,Yellow,Omar,Sciences,Physics,Mechanics,2,C
+1,Yellow,Omar,Sciences,Physics,Mechanics,3,D
+1,Yellow,Omar,Sciences,Physics,Thermodynamics,1,E
+1,Yellow,Omar,Sciences,Physics,Thermodynamics,2,A
+1,Yellow,Omar,Sciences,Physics,Thermodynamics,3,E
+1,Yellow,Omar,Humanities,Geography,Physical Geography,1,B
+1,Yellow,Omar,Humanities,Geography,Physical Geography,2,D
+1,Yellow,Omar,Humanities,Geography,Physical Geography,3,C
+1,Yellow,Omar,Humanities,Geography,Human Geography,1,A
+1,Yellow,Omar,Humanities,Geography,Human Geography,2,E
+1,Yellow,Omar,Humanities,Geography,Human Geography,3,D
+1,Yellow,Omar,Humanities,History,Ancient History,1,C
+1,Yellow,Omar,Humanities,History,Ancient History,2,E
+1,Yellow,Omar,Humanities,History,Ancient History,3,C
+1,Yellow,Omar,Humanities,History,Medieval History,1,B
+1,Yellow,Omar,Humanities,History,Medieval History,2,C
+1,Yellow,Omar,Humanities,History,Medieval History,3,A
+1,Blue,Edwin,Languages,English,English Reading,1,A
+1,Blue,Edwin,Languages,English,English Reading,2,A
+1,Blue,Edwin,Languages,English,English Reading,3,B
+1,Blue,Edwin,Languages,English,English Writing,1,E
+1,Blue,Edwin,Languages,English,English Writing,2,A
+1,Blue,Edwin,Languages,English,English Writing,3,E
+1,Blue,Edwin,Languages,Spanish,Vocabulary,1,E
+1,Blue,Edwin,Languages,Spanish,Vocabulary,2,E
+1,Blue,Edwin,Languages,Spanish,Vocabulary,3,E
+1,Blue,Edwin,Languages,Spanish,Spanish Grammar,1,A
+1,Blue,Edwin,Languages,Spanish,Spanish Grammar,2,A
+1,Blue,Edwin,Languages,Spanish,Spanish Grammar,3,D
+1,Blue,Edwin,Sciences,Math,Algebra,1,A
+1,Blue,Edwin,Sciences,Math,Algebra,2,A
+1,Blue,Edwin,Sciences,Math,Algebra,3,A
+1,Blue,Edwin,Sciences,Math,Geometry,1,C
+1,Blue,Edwin,Sciences,Math,Geometry,2,A
+1,Blue,Edwin,Sciences,Math,Geometry,3,A
+1,Blue,Edwin,Sciences,Physics,Mechanics,1,A
+1,Blue,Edwin,Sciences,Physics,Mechanics,2,A
+1,Blue,Edwin,Sciences,Physics,Mechanics,3,A
+1,Blue,Edwin,Sciences,Physics,Thermodynamics,1,A
+1,Blue,Edwin,Sciences,Physics,Thermodynamics,2,A
+1,Blue,Edwin,Sciences,Physics,Thermodynamics,3,A
+1,Blue,Edwin,Humanities,Geography,Physical Geography,1,D
+1,Blue,Edwin,Humanities,Geography,Physical Geography,2,D
+1,Blue,Edwin,Humanities,Geography,Physical Geography,3,E
+1,Blue,Edwin,Humanities,Geography,Human Geography,1,C
+1,Blue,Edwin,Humanities,Geography,Human Geography,2,C
+1,Blue,Edwin,Humanities,Geography,Human Geography,3,E
+1,Blue,Edwin,Humanities,History,Ancient History,1,D
+1,Blue,Edwin,Humanities,History,Ancient History,2,D
+1,Blue,Edwin,Humanities,History,Ancient History,3,D
+1,Blue,Edwin,Humanities,History,Medieval History,1,E
+1,Blue,Edwin,Humanities,History,Medieval History,2,B
+1,Blue,Edwin,Humanities,History,Medieval History,3,B
+1,Blue,Leah,Languages,English,English Reading,1,A
+1,Blue,Leah,Languages,English,English Reading,2,D
+1,Blue,Leah,Languages,English,English Reading,3,D
+1,Blue,Leah,Languages,English,English Writing,1,C
+1,Blue,Leah,Languages,English,English Writing,2,C
+1,Blue,Leah,Languages,English,English Writing,3,D
+1,Blue,Leah,Languages,Spanish,Vocabulary,1,E
+1,Blue,Leah,Languages,Spanish,Vocabulary,2,C
+1,Blue,Leah,Languages,Spanish,Vocabulary,3,D
+1,Blue,Leah,Languages,Spanish,Spanish Grammar,1,D
+1,Blue,Leah,Languages,Spanish,Spanish Grammar,2,C
+1,Blue,Leah,Languages,Spanish,Spanish Grammar,3,E
+1,Blue,Leah,Sciences,Math,Algebra,1,A
+1,Blue,Leah,Sciences,Math,Algebra,2,A
+1,Blue,Leah,Sciences,Math,Algebra,3,A
+1,Blue,Leah,Sciences,Math,Geometry,1,A
+1,Blue,Leah,Sciences,Math,Geometry,2,A
+1,Blue,Leah,Sciences,Math,Geometry,3,B
+1,Blue,Leah,Sciences,Physics,Mechanics,1,B
+1,Blue,Leah,Sciences,Physics,Mechanics,2,A
+1,Blue,Leah,Sciences,Physics,Mechanics,3,A
+1,Blue,Leah,Sciences,Physics,Thermodynamics,1,A
+1,Blue,Leah,Sciences,Physics,Thermodynamics,2,A
+1,Blue,Leah,Sciences,Physics,Thermodynamics,3,A
+1,Blue,Leah,Humanities,Geography,Physical Geography,1,B
+1,Blue,Leah,Humanities,Geography,Physical Geography,2,B
+1,Blue,Leah,Humanities,Geography,Physical Geography,3,C
+1,Blue,Leah,Humanities,Geography,Human Geography,1,A
+1,Blue,Leah,Humanities,Geography,Human Geography,2,B
+1,Blue,Leah,Humanities,Geography,Human Geography,3,A
+1,Blue,Leah,Humanities,History,Ancient History,1,A
+1,Blue,Leah,Humanities,History,Ancient History,2,B
+1,Blue,Leah,Humanities,History,Ancient History,3,C
+1,Blue,Leah,Humanities,History,Medieval History,1,D
+1,Blue,Leah,Humanities,History,Medieval History,2,E
+1,Blue,Leah,Humanities,History,Medieval History,3,B
+1,Blue,Francisco,Languages,English,English Reading,1,A
+1,Blue,Francisco,Languages,English,English Reading,2,A
+1,Blue,Francisco,Languages,English,English Reading,3,A
+1,Blue,Francisco,Languages,English,English Writing,1,A
+1,Blue,Francisco,Languages,English,English Writing,2,A
+1,Blue,Francisco,Languages,English,English Writing,3,A
+1,Blue,Francisco,Languages,Spanish,Vocabulary,1,A
+1,Blue,Francisco,Languages,Spanish,Vocabulary,2,A
+1,Blue,Francisco,Languages,Spanish,Vocabulary,3,B
+1,Blue,Francisco,Languages,Spanish,Spanish Grammar,1,B
+1,Blue,Francisco,Languages,Spanish,Spanish Grammar,2,D
+1,Blue,Francisco,Languages,Spanish,Spanish Grammar,3,A
+1,Blue,Francisco,Sciences,Math,Algebra,1,B
+1,Blue,Francisco,Sciences,Math,Algebra,2,E
+1,Blue,Francisco,Sciences,Math,Algebra,3,E
+1,Blue,Francisco,Sciences,Math,Geometry,1,C
+1,Blue,Francisco,Sciences,Math,Geometry,2,A
+1,Blue,Francisco,Sciences,Math,Geometry,3,C
+1,Blue,Francisco,Sciences,Physics,Mechanics,1,B
+1,Blue,Francisco,Sciences,Physics,Mechanics,2,D
+1,Blue,Francisco,Sciences,Physics,Mechanics,3,C
+1,Blue,Francisco,Sciences,Physics,Thermodynamics,1,C
+1,Blue,Francisco,Sciences,Physics,Thermodynamics,2,C
+1,Blue,Francisco,Sciences,Physics,Thermodynamics,3,C
+1,Blue,Francisco,Humanities,Geography,Physical Geography,1,B
+1,Blue,Francisco,Humanities,Geography,Physical Geography,2,A
+1,Blue,Francisco,Humanities,Geography,Physical Geography,3,A
+1,Blue,Francisco,Humanities,Geography,Human Geography,1,A
+1,Blue,Francisco,Humanities,Geography,Human Geography,2,A
+1,Blue,Francisco,Humanities,Geography,Human Geography,3,C
+1,Blue,Francisco,Humanities,History,Ancient History,1,A
+1,Blue,Francisco,Humanities,History,Ancient History,2,C
+1,Blue,Francisco,Humanities,History,Ancient History,3,B
+1,Blue,Francisco,Humanities,History,Medieval History,1,B
+1,Blue,Francisco,Humanities,History,Medieval History,2,A
+1,Blue,Francisco,Humanities,History,Medieval History,3,A
+1,Blue,Christopher,Languages,English,English Reading,1,E
+1,Blue,Christopher,Languages,English,English Reading,2,E
+1,Blue,Christopher,Languages,English,English Reading,3,D
+1,Blue,Christopher,Languages,English,English Writing,1,C
+1,Blue,Christopher,Languages,English,English Writing,2,E
+1,Blue,Christopher,Languages,English,English Writing,3,B
+1,Blue,Christopher,Languages,Spanish,Vocabulary,1,D
+1,Blue,Christopher,Languages,Spanish,Vocabulary,2,C
+1,Blue,Christopher,Languages,Spanish,Vocabulary,3,C
+1,Blue,Christopher,Languages,Spanish,Spanish Grammar,1,E
+1,Blue,Christopher,Languages,Spanish,Spanish Grammar,2,E
+1,Blue,Christopher,Languages,Spanish,Spanish Grammar,3,D
+1,Blue,Christopher,Sciences,Math,Algebra,1,A
+1,Blue,Christopher,Sciences,Math,Algebra,2,A
+1,Blue,Christopher,Sciences,Math,Algebra,3,A
+1,Blue,Christopher,Sciences,Math,Geometry,1,A
+1,Blue,Christopher,Sciences,Math,Geometry,2,A
+1,Blue,Christopher,Sciences,Math,Geometry,3,A
+1,Blue,Christopher,Sciences,Physics,Mechanics,1,A
+1,Blue,Christopher,Sciences,Physics,Mechanics,2,C
+1,Blue,Christopher,Sciences,Physics,Mechanics,3,A
+1,Blue,Christopher,Sciences,Physics,Thermodynamics,1,B
+1,Blue,Christopher,Sciences,Physics,Thermodynamics,2,B
+1,Blue,Christopher,Sciences,Physics,Thermodynamics,3,A
+1,Blue,Christopher,Humanities,Geography,Physical Geography,1,A
+1,Blue,Christopher,Humanities,Geography,Physical Geography,2,B
+1,Blue,Christopher,Humanities,Geography,Physical Geography,3,E
+1,Blue,Christopher,Humanities,Geography,Human Geography,1,B
+1,Blue,Christopher,Humanities,Geography,Human Geography,2,A
+1,Blue,Christopher,Humanities,Geography,Human Geography,3,A
+1,Blue,Christopher,Humanities,History,Ancient History,1,A
+1,Blue,Christopher,Humanities,History,Ancient History,2,B
+1,Blue,Christopher,Humanities,History,Ancient History,3,C
+1,Blue,Christopher,Humanities,History,Medieval History,1,C
+1,Blue,Christopher,Humanities,History,Medieval History,2,A
+1,Blue,Christopher,Humanities,History,Medieval History,3,A
+1,Blue,Kelly,Languages,English,English Reading,1,A
+1,Blue,Kelly,Languages,English,English Reading,2,A
+1,Blue,Kelly,Languages,English,English Reading,3,A
+1,Blue,Kelly,Languages,English,English Writing,1,A
+1,Blue,Kelly,Languages,English,English Writing,2,B
+1,Blue,Kelly,Languages,English,English Writing,3,C
+1,Blue,Kelly,Languages,Spanish,Vocabulary,1,C
+1,Blue,Kelly,Languages,Spanish,Vocabulary,2,B
+1,Blue,Kelly,Languages,Spanish,Vocabulary,3,A
+1,Blue,Kelly,Languages,Spanish,Spanish Grammar,1,A
+1,Blue,Kelly,Languages,Spanish,Spanish Grammar,2,B
+1,Blue,Kelly,Languages,Spanish,Spanish Grammar,3,A
+1,Blue,Kelly,Sciences,Math,Algebra,1,A
+1,Blue,Kelly,Sciences,Math,Algebra,2,A
+1,Blue,Kelly,Sciences,Math,Algebra,3,C
+1,Blue,Kelly,Sciences,Math,Geometry,1,A
+1,Blue,Kelly,Sciences,Math,Geometry,2,A
+1,Blue,Kelly,Sciences,Math,Geometry,3,A
+1,Blue,Kelly,Sciences,Physics,Mechanics,1,C
+1,Blue,Kelly,Sciences,Physics,Mechanics,2,C
+1,Blue,Kelly,Sciences,Physics,Mechanics,3,B
+1,Blue,Kelly,Sciences,Physics,Thermodynamics,1,A
+1,Blue,Kelly,Sciences,Physics,Thermodynamics,2,A
+1,Blue,Kelly,Sciences,Physics,Thermodynamics,3,A
+1,Blue,Kelly,Humanities,Geography,Physical Geography,1,E
+1,Blue,Kelly,Humanities,Geography,Physical Geography,2,D
+1,Blue,Kelly,Humanities,Geography,Physical Geography,3,C
+1,Blue,Kelly,Humanities,Geography,Human Geography,1,E
+1,Blue,Kelly,Humanities,Geography,Human Geography,2,B
+1,Blue,Kelly,Humanities,Geography,Human Geography,3,B
+1,Blue,Kelly,Humanities,History,Ancient History,1,C
+1,Blue,Kelly,Humanities,History,Ancient History,2,D
+1,Blue,Kelly,Humanities,History,Ancient History,3,D
+1,Blue,Kelly,Humanities,History,Medieval History,1,E
+1,Blue,Kelly,Humanities,History,Medieval History,2,D
+1,Blue,Kelly,Humanities,History,Medieval History,3,C
+1,Blue,Omar,Languages,English,English Reading,1,A
+1,Blue,Omar,Languages,English,English Reading,2,A
+1,Blue,Omar,Languages,English,English Reading,3,C
+1,Blue,Omar,Languages,English,English Writing,1,A
+1,Blue,Omar,Languages,English,English Writing,2,A
+1,Blue,Omar,Languages,English,English Writing,3,A
+1,Blue,Omar,Languages,Spanish,Vocabulary,1,D
+1,Blue,Omar,Languages,Spanish,Vocabulary,2,A
+1,Blue,Omar,Languages,Spanish,Vocabulary,3,A
+1,Blue,Omar,Languages,Spanish,Spanish Grammar,1,B
+1,Blue,Omar,Languages,Spanish,Spanish Grammar,2,A
+1,Blue,Omar,Languages,Spanish,Spanish Grammar,3,A
+1,Blue,Omar,Sciences,Math,Algebra,1,D
+1,Blue,Omar,Sciences,Math,Algebra,2,B
+1,Blue,Omar,Sciences,Math,Algebra,3,A
+1,Blue,Omar,Sciences,Math,Geometry,1,E
+1,Blue,Omar,Sciences,Math,Geometry,2,C
+1,Blue,Omar,Sciences,Math,Geometry,3,A
+1,Blue,Omar,Sciences,Physics,Mechanics,1,E
+1,Blue,Omar,Sciences,Physics,Mechanics,2,B
+1,Blue,Omar,Sciences,Physics,Mechanics,3,C
+1,Blue,Omar,Sciences,Physics,Thermodynamics,1,E
+1,Blue,Omar,Sciences,Physics,Thermodynamics,2,A
+1,Blue,Omar,Sciences,Physics,Thermodynamics,3,C
+1,Blue,Omar,Humanities,Geography,Physical Geography,1,E
+1,Blue,Omar,Humanities,Geography,Physical Geography,2,C
+1,Blue,Omar,Humanities,Geography,Physical Geography,3,C
+1,Blue,Omar,Humanities,Geography,Human Geography,1,A
+1,Blue,Omar,Humanities,Geography,Human Geography,2,C
+1,Blue,Omar,Humanities,Geography,Human Geography,3,D
+1,Blue,Omar,Humanities,History,Ancient History,1,C
+1,Blue,Omar,Humanities,History,Ancient History,2,B
+1,Blue,Omar,Humanities,History,Ancient History,3,E
+1,Blue,Omar,Humanities,History,Medieval History,1,D
+1,Blue,Omar,Humanities,History,Medieval History,2,E
+1,Blue,Omar,Humanities,History,Medieval History,3,D
+2,Yellow,Edwin,Languages,English,English Reading,1,C
+2,Yellow,Edwin,Languages,English,English Reading,2,D
+2,Yellow,Edwin,Languages,English,English Reading,3,A
+2,Yellow,Edwin,Languages,English,English Writing,1,E
+2,Yellow,Edwin,Languages,English,English Writing,2,D
+2,Yellow,Edwin,Languages,English,English Writing,3,A
+2,Yellow,Edwin,Languages,Spanish,Vocabulary,1,A
+2,Yellow,Edwin,Languages,Spanish,Vocabulary,2,C
+2,Yellow,Edwin,Languages,Spanish,Vocabulary,3,D
+2,Yellow,Edwin,Languages,Spanish,Spanish Grammar,1,C
+2,Yellow,Edwin,Languages,Spanish,Spanish Grammar,2,E
+2,Yellow,Edwin,Languages,Spanish,Spanish Grammar,3,A
+2,Yellow,Edwin,Sciences,Math,Algebra,1,A
+2,Yellow,Edwin,Sciences,Math,Algebra,2,A
+2,Yellow,Edwin,Sciences,Math,Algebra,3,A
+2,Yellow,Edwin,Sciences,Math,Geometry,1,A
+2,Yellow,Edwin,Sciences,Math,Geometry,2,B
+2,Yellow,Edwin,Sciences,Math,Geometry,3,A
+2,Yellow,Edwin,Sciences,Physics,Mechanics,1,A
+2,Yellow,Edwin,Sciences,Physics,Mechanics,2,C
+2,Yellow,Edwin,Sciences,Physics,Mechanics,3,A
+2,Yellow,Edwin,Sciences,Physics,Thermodynamics,1,B
+2,Yellow,Edwin,Sciences,Physics,Thermodynamics,2,A
+2,Yellow,Edwin,Sciences,Physics,Thermodynamics,3,B
+2,Yellow,Edwin,Humanities,Geography,Physical Geography,1,D
+2,Yellow,Edwin,Humanities,Geography,Physical Geography,2,B
+2,Yellow,Edwin,Humanities,Geography,Physical Geography,3,A
+2,Yellow,Edwin,Humanities,Geography,Human Geography,1,D
+2,Yellow,Edwin,Humanities,Geography,Human Geography,2,C
+2,Yellow,Edwin,Humanities,Geography,Human Geography,3,E
+2,Yellow,Edwin,Humanities,History,Ancient History,1,B
+2,Yellow,Edwin,Humanities,History,Ancient History,2,E
+2,Yellow,Edwin,Humanities,History,Ancient History,3,E
+2,Yellow,Edwin,Humanities,History,Medieval History,1,E
+2,Yellow,Edwin,Humanities,History,Medieval History,2,C
+2,Yellow,Edwin,Humanities,History,Medieval History,3,C
+2,Yellow,Leah,Languages,English,English Reading,1,C
+2,Yellow,Leah,Languages,English,English Reading,2,B
+2,Yellow,Leah,Languages,English,English Reading,3,C
+2,Yellow,Leah,Languages,English,English Writing,1,D
+2,Yellow,Leah,Languages,English,English Writing,2,D
+2,Yellow,Leah,Languages,English,English Writing,3,C
+2,Yellow,Leah,Languages,Spanish,Vocabulary,1,C
+2,Yellow,Leah,Languages,Spanish,Vocabulary,2,C
+2,Yellow,Leah,Languages,Spanish,Vocabulary,3,C
+2,Yellow,Leah,Languages,Spanish,Spanish Grammar,1,B
+2,Yellow,Leah,Languages,Spanish,Spanish Grammar,2,D
+2,Yellow,Leah,Languages,Spanish,Spanish Grammar,3,E
+2,Yellow,Leah,Sciences,Math,Algebra,1,B
+2,Yellow,Leah,Sciences,Math,Algebra,2,A
+2,Yellow,Leah,Sciences,Math,Algebra,3,A
+2,Yellow,Leah,Sciences,Math,Geometry,1,A
+2,Yellow,Leah,Sciences,Math,Geometry,2,B
+2,Yellow,Leah,Sciences,Math,Geometry,3,A
+2,Yellow,Leah,Sciences,Physics,Mechanics,1,B
+2,Yellow,Leah,Sciences,Physics,Mechanics,2,A
+2,Yellow,Leah,Sciences,Physics,Mechanics,3,A
+2,Yellow,Leah,Sciences,Physics,Thermodynamics,1,A
+2,Yellow,Leah,Sciences,Physics,Thermodynamics,2,A
+2,Yellow,Leah,Sciences,Physics,Thermodynamics,3,A
+2,Yellow,Leah,Humanities,Geography,Physical Geography,1,B
+2,Yellow,Leah,Humanities,Geography,Physical Geography,2,A
+2,Yellow,Leah,Humanities,Geography,Physical Geography,3,E
+2,Yellow,Leah,Humanities,Geography,Human Geography,1,C
+2,Yellow,Leah,Humanities,Geography,Human Geography,2,E
+2,Yellow,Leah,Humanities,Geography,Human Geography,3,B
+2,Yellow,Leah,Humanities,History,Ancient History,1,B
+2,Yellow,Leah,Humanities,History,Ancient History,2,D
+2,Yellow,Leah,Humanities,History,Ancient History,3,B
+2,Yellow,Leah,Humanities,History,Medieval History,1,A
+2,Yellow,Leah,Humanities,History,Medieval History,2,C
+2,Yellow,Leah,Humanities,History,Medieval History,3,A
+2,Yellow,Francisco,Languages,English,English Reading,1,A
+2,Yellow,Francisco,Languages,English,English Reading,2,A
+2,Yellow,Francisco,Languages,English,English Reading,3,A
+2,Yellow,Francisco,Languages,English,English Writing,1,B
+2,Yellow,Francisco,Languages,English,English Writing,2,C
+2,Yellow,Francisco,Languages,English,English Writing,3,A
+2,Yellow,Francisco,Languages,Spanish,Vocabulary,1,A
+2,Yellow,Francisco,Languages,Spanish,Vocabulary,2,A
+2,Yellow,Francisco,Languages,Spanish,Vocabulary,3,A
+2,Yellow,Francisco,Languages,Spanish,Spanish Grammar,1,B
+2,Yellow,Francisco,Languages,Spanish,Spanish Grammar,2,A
+2,Yellow,Francisco,Languages,Spanish,Spanish Grammar,3,A
+2,Yellow,Francisco,Sciences,Math,Algebra,1,A
+2,Yellow,Francisco,Sciences,Math,Algebra,2,C
+2,Yellow,Francisco,Sciences,Math,Algebra,3,E
+2,Yellow,Francisco,Sciences,Math,Geometry,1,D
+2,Yellow,Francisco,Sciences,Math,Geometry,2,E
+2,Yellow,Francisco,Sciences,Math,Geometry,3,C
+2,Yellow,Francisco,Sciences,Physics,Mechanics,1,C
+2,Yellow,Francisco,Sciences,Physics,Mechanics,2,E
+2,Yellow,Francisco,Sciences,Physics,Mechanics,3,C
+2,Yellow,Francisco,Sciences,Physics,Thermodynamics,1,E
+2,Yellow,Francisco,Sciences,Physics,Thermodynamics,2,C
+2,Yellow,Francisco,Sciences,Physics,Thermodynamics,3,D
+2,Yellow,Francisco,Humanities,Geography,Physical Geography,1,A
+2,Yellow,Francisco,Humanities,Geography,Physical Geography,2,A
+2,Yellow,Francisco,Humanities,Geography,Physical Geography,3,B
+2,Yellow,Francisco,Humanities,Geography,Human Geography,1,B
+2,Yellow,Francisco,Humanities,Geography,Human Geography,2,A
+2,Yellow,Francisco,Humanities,Geography,Human Geography,3,A
+2,Yellow,Francisco,Humanities,History,Ancient History,1,B
+2,Yellow,Francisco,Humanities,History,Ancient History,2,A
+2,Yellow,Francisco,Humanities,History,Ancient History,3,A
+2,Yellow,Francisco,Humanities,History,Medieval History,1,A
+2,Yellow,Francisco,Humanities,History,Medieval History,2,B
+2,Yellow,Francisco,Humanities,History,Medieval History,3,A
+2,Yellow,Christopher,Languages,English,English Reading,1,D
+2,Yellow,Christopher,Languages,English,English Reading,2,B
+2,Yellow,Christopher,Languages,English,English Reading,3,C
+2,Yellow,Christopher,Languages,English,English Writing,1,D
+2,Yellow,Christopher,Languages,English,English Writing,2,D
+2,Yellow,Christopher,Languages,English,English Writing,3,D
+2,Yellow,Christopher,Languages,Spanish,Vocabulary,1,E
+2,Yellow,Christopher,Languages,Spanish,Vocabulary,2,C
+2,Yellow,Christopher,Languages,Spanish,Vocabulary,3,D
+2,Yellow,Christopher,Languages,Spanish,Spanish Grammar,1,E
+2,Yellow,Christopher,Languages,Spanish,Spanish Grammar,2,C
+2,Yellow,Christopher,Languages,Spanish,Spanish Grammar,3,C
+2,Yellow,Christopher,Sciences,Math,Algebra,1,A
+2,Yellow,Christopher,Sciences,Math,Algebra,2,B
+2,Yellow,Christopher,Sciences,Math,Algebra,3,A
+2,Yellow,Christopher,Sciences,Math,Geometry,1,A
+2,Yellow,Christopher,Sciences,Math,Geometry,2,C
+2,Yellow,Christopher,Sciences,Math,Geometry,3,A
+2,Yellow,Christopher,Sciences,Physics,Mechanics,1,B
+2,Yellow,Christopher,Sciences,Physics,Mechanics,2,A
+2,Yellow,Christopher,Sciences,Physics,Mechanics,3,A
+2,Yellow,Christopher,Sciences,Physics,Thermodynamics,1,A
+2,Yellow,Christopher,Sciences,Physics,Thermodynamics,2,B
+2,Yellow,Christopher,Sciences,Physics,Thermodynamics,3,A
+2,Yellow,Christopher,Humanities,Geography,Physical Geography,1,A
+2,Yellow,Christopher,Humanities,Geography,Physical Geography,2,C
+2,Yellow,Christopher,Humanities,Geography,Physical Geography,3,E
+2,Yellow,Christopher,Humanities,Geography,Human Geography,1,D
+2,Yellow,Christopher,Humanities,Geography,Human Geography,2,B
+2,Yellow,Christopher,Humanities,Geography,Human Geography,3,E
+2,Yellow,Christopher,Humanities,History,Ancient History,1,C
+2,Yellow,Christopher,Humanities,History,Ancient History,2,A
+2,Yellow,Christopher,Humanities,History,Ancient History,3,A
+2,Yellow,Christopher,Humanities,History,Medieval History,1,B
+2,Yellow,Christopher,Humanities,History,Medieval History,2,C
+2,Yellow,Christopher,Humanities,History,Medieval History,3,C
+2,Yellow,Kelly,Languages,English,English Reading,1,B
+2,Yellow,Kelly,Languages,English,English Reading,2,B
+2,Yellow,Kelly,Languages,English,English Reading,3,A
+2,Yellow,Kelly,Languages,English,English Writing,1,A
+2,Yellow,Kelly,Languages,English,English Writing,2,B
+2,Yellow,Kelly,Languages,English,English Writing,3,A
+2,Yellow,Kelly,Languages,Spanish,Vocabulary,1,C
+2,Yellow,Kelly,Languages,Spanish,Vocabulary,2,A
+2,Yellow,Kelly,Languages,Spanish,Vocabulary,3,B
+2,Yellow,Kelly,Languages,Spanish,Spanish Grammar,1,B
+2,Yellow,Kelly,Languages,Spanish,Spanish Grammar,2,A
+2,Yellow,Kelly,Languages,Spanish,Spanish Grammar,3,B
+2,Yellow,Kelly,Sciences,Math,Algebra,1,A
+2,Yellow,Kelly,Sciences,Math,Algebra,2,B
+2,Yellow,Kelly,Sciences,Math,Algebra,3,A
+2,Yellow,Kelly,Sciences,Math,Geometry,1,A
+2,Yellow,Kelly,Sciences,Math,Geometry,2,A
+2,Yellow,Kelly,Sciences,Math,Geometry,3,A
+2,Yellow,Kelly,Sciences,Physics,Mechanics,1,B
+2,Yellow,Kelly,Sciences,Physics,Mechanics,2,A
+2,Yellow,Kelly,Sciences,Physics,Mechanics,3,A
+2,Yellow,Kelly,Sciences,Physics,Thermodynamics,1,A
+2,Yellow,Kelly,Sciences,Physics,Thermodynamics,2,B
+2,Yellow,Kelly,Sciences,Physics,Thermodynamics,3,A
+2,Yellow,Kelly,Humanities,Geography,Physical Geography,1,E
+2,Yellow,Kelly,Humanities,Geography,Physical Geography,2,C
+2,Yellow,Kelly,Humanities,Geography,Physical Geography,3,B
+2,Yellow,Kelly,Humanities,Geography,Human Geography,1,C
+2,Yellow,Kelly,Humanities,Geography,Human Geography,2,B
+2,Yellow,Kelly,Humanities,Geography,Human Geography,3,E
+2,Yellow,Kelly,Humanities,History,Ancient History,1,B
+2,Yellow,Kelly,Humanities,History,Ancient History,2,C
+2,Yellow,Kelly,Humanities,History,Ancient History,3,D
+2,Yellow,Kelly,Humanities,History,Medieval History,1,E
+2,Yellow,Kelly,Humanities,History,Medieval History,2,A
+2,Yellow,Kelly,Humanities,History,Medieval History,3,D
+2,Yellow,Omar,Languages,English,English Reading,1,A
+2,Yellow,Omar,Languages,English,English Reading,2,A
+2,Yellow,Omar,Languages,English,English Reading,3,A
+2,Yellow,Omar,Languages,English,English Writing,1,A
+2,Yellow,Omar,Languages,English,English Writing,2,A
+2,Yellow,Omar,Languages,English,English Writing,3,A
+2,Yellow,Omar,Languages,Spanish,Vocabulary,1,A
+2,Yellow,Omar,Languages,Spanish,Vocabulary,2,A
+2,Yellow,Omar,Languages,Spanish,Vocabulary,3,A
+2,Yellow,Omar,Languages,Spanish,Spanish Grammar,1,B
+2,Yellow,Omar,Languages,Spanish,Spanish Grammar,2,A
+2,Yellow,Omar,Languages,Spanish,Spanish Grammar,3,A
+2,Yellow,Omar,Sciences,Math,Algebra,1,D
+2,Yellow,Omar,Sciences,Math,Algebra,2,E
+2,Yellow,Omar,Sciences,Math,Algebra,3,E
+2,Yellow,Omar,Sciences,Math,Geometry,1,D
+2,Yellow,Omar,Sciences,Math,Geometry,2,C
+2,Yellow,Omar,Sciences,Math,Geometry,3,D
+2,Yellow,Omar,Sciences,Physics,Mechanics,1,D
+2,Yellow,Omar,Sciences,Physics,Mechanics,2,B
+2,Yellow,Omar,Sciences,Physics,Mechanics,3,A
+2,Yellow,Omar,Sciences,Physics,Thermodynamics,1,C
+2,Yellow,Omar,Sciences,Physics,Thermodynamics,2,A
+2,Yellow,Omar,Sciences,Physics,Thermodynamics,3,E
+2,Yellow,Omar,Humanities,Geography,Physical Geography,1,C
+2,Yellow,Omar,Humanities,Geography,Physical Geography,2,C
+2,Yellow,Omar,Humanities,Geography,Physical Geography,3,D
+2,Yellow,Omar,Humanities,Geography,Human Geography,1,C
+2,Yellow,Omar,Humanities,Geography,Human Geography,2,D
+2,Yellow,Omar,Humanities,Geography,Human Geography,3,C
+2,Yellow,Omar,Humanities,History,Ancient History,1,B
+2,Yellow,Omar,Humanities,History,Ancient History,2,D
+2,Yellow,Omar,Humanities,History,Ancient History,3,D
+2,Yellow,Omar,Humanities,History,Medieval History,1,A
+2,Yellow,Omar,Humanities,History,Medieval History,2,C
+2,Yellow,Omar,Humanities,History,Medieval History,3,C
+2,Blue,Edwin,Languages,English,English Reading,1,C
+2,Blue,Edwin,Languages,English,English Reading,2,A
+2,Blue,Edwin,Languages,English,English Reading,3,A
+2,Blue,Edwin,Languages,English,English Writing,1,E
+2,Blue,Edwin,Languages,English,English Writing,2,D
+2,Blue,Edwin,Languages,English,English Writing,3,C
+2,Blue,Edwin,Languages,Spanish,Vocabulary,1,A
+2,Blue,Edwin,Languages,Spanish,Vocabulary,2,C
+2,Blue,Edwin,Languages,Spanish,Vocabulary,3,E
+2,Blue,Edwin,Languages,Spanish,Spanish Grammar,1,C
+2,Blue,Edwin,Languages,Spanish,Spanish Grammar,2,A
+2,Blue,Edwin,Languages,Spanish,Spanish Grammar,3,A
+2,Blue,Edwin,Sciences,Math,Algebra,1,C
+2,Blue,Edwin,Sciences,Math,Algebra,2,A
+2,Blue,Edwin,Sciences,Math,Algebra,3,A
+2,Blue,Edwin,Sciences,Math,Geometry,1,A
+2,Blue,Edwin,Sciences,Math,Geometry,2,A
+2,Blue,Edwin,Sciences,Math,Geometry,3,A
+2,Blue,Edwin,Sciences,Physics,Mechanics,1,A
+2,Blue,Edwin,Sciences,Physics,Mechanics,2,A
+2,Blue,Edwin,Sciences,Physics,Mechanics,3,A
+2,Blue,Edwin,Sciences,Physics,Thermodynamics,1,A
+2,Blue,Edwin,Sciences,Physics,Thermodynamics,2,A
+2,Blue,Edwin,Sciences,Physics,Thermodynamics,3,C
+2,Blue,Edwin,Humanities,Geography,Physical Geography,1,D
+2,Blue,Edwin,Humanities,Geography,Physical Geography,2,E
+2,Blue,Edwin,Humanities,Geography,Physical Geography,3,C
+2,Blue,Edwin,Humanities,Geography,Human Geography,1,E
+2,Blue,Edwin,Humanities,Geography,Human Geography,2,D
+2,Blue,Edwin,Humanities,Geography,Human Geography,3,A
+2,Blue,Edwin,Humanities,History,Ancient History,1,E
+2,Blue,Edwin,Humanities,History,Ancient History,2,D
+2,Blue,Edwin,Humanities,History,Ancient History,3,D
+2,Blue,Edwin,Humanities,History,Medieval History,1,B
+2,Blue,Edwin,Humanities,History,Medieval History,2,C
+2,Blue,Edwin,Humanities,History,Medieval History,3,C
+2,Blue,Leah,Languages,English,English Reading,1,D
+2,Blue,Leah,Languages,English,English Reading,2,E
+2,Blue,Leah,Languages,English,English Reading,3,B
+2,Blue,Leah,Languages,English,English Writing,1,D
+2,Blue,Leah,Languages,English,English Writing,2,A
+2,Blue,Leah,Languages,English,English Writing,3,C
+2,Blue,Leah,Languages,Spanish,Vocabulary,1,B
+2,Blue,Leah,Languages,Spanish,Vocabulary,2,C
+2,Blue,Leah,Languages,Spanish,Vocabulary,3,C
+2,Blue,Leah,Languages,Spanish,Spanish Grammar,1,E
+2,Blue,Leah,Languages,Spanish,Spanish Grammar,2,B
+2,Blue,Leah,Languages,Spanish,Spanish Grammar,3,B
+2,Blue,Leah,Sciences,Math,Algebra,1,A
+2,Blue,Leah,Sciences,Math,Algebra,2,A
+2,Blue,Leah,Sciences,Math,Algebra,3,A
+2,Blue,Leah,Sciences,Math,Geometry,1,B
+2,Blue,Leah,Sciences,Math,Geometry,2,A
+2,Blue,Leah,Sciences,Math,Geometry,3,B
+2,Blue,Leah,Sciences,Physics,Mechanics,1,A
+2,Blue,Leah,Sciences,Physics,Mechanics,2,A
+2,Blue,Leah,Sciences,Physics,Mechanics,3,A
+2,Blue,Leah,Sciences,Physics,Thermodynamics,1,A
+2,Blue,Leah,Sciences,Physics,Thermodynamics,2,A
+2,Blue,Leah,Sciences,Physics,Thermodynamics,3,B
+2,Blue,Leah,Humanities,Geography,Physical Geography,1,C
+2,Blue,Leah,Humanities,Geography,Physical Geography,2,A
+2,Blue,Leah,Humanities,Geography,Physical Geography,3,A
+2,Blue,Leah,Humanities,Geography,Human Geography,1,C
+2,Blue,Leah,Humanities,Geography,Human Geography,2,A
+2,Blue,Leah,Humanities,Geography,Human Geography,3,A
+2,Blue,Leah,Humanities,History,Ancient History,1,A
+2,Blue,Leah,Humanities,History,Ancient History,2,A
+2,Blue,Leah,Humanities,History,Ancient History,3,B
+2,Blue,Leah,Humanities,History,Medieval History,1,A
+2,Blue,Leah,Humanities,History,Medieval History,2,C
+2,Blue,Leah,Humanities,History,Medieval History,3,E
+2,Blue,Francisco,Languages,English,English Reading,1,A
+2,Blue,Francisco,Languages,English,English Reading,2,A
+2,Blue,Francisco,Languages,English,English Reading,3,B
+2,Blue,Francisco,Languages,English,English Writing,1,A
+2,Blue,Francisco,Languages,English,English Writing,2,A
+2,Blue,Francisco,Languages,English,English Writing,3,A
+2,Blue,Francisco,Languages,Spanish,Vocabulary,1,B
+2,Blue,Francisco,Languages,Spanish,Vocabulary,2,A
+2,Blue,Francisco,Languages,Spanish,Vocabulary,3,A
+2,Blue,Francisco,Languages,Spanish,Spanish Grammar,1,A
+2,Blue,Francisco,Languages,Spanish,Spanish Grammar,2,A
+2,Blue,Francisco,Languages,Spanish,Spanish Grammar,3,A
+2,Blue,Francisco,Sciences,Math,Algebra,1,D
+2,Blue,Francisco,Sciences,Math,Algebra,2,D
+2,Blue,Francisco,Sciences,Math,Algebra,3,C
+2,Blue,Francisco,Sciences,Math,Geometry,1,B
+2,Blue,Francisco,Sciences,Math,Geometry,2,C
+2,Blue,Francisco,Sciences,Math,Geometry,3,D
+2,Blue,Francisco,Sciences,Physics,Mechanics,1,B
+2,Blue,Francisco,Sciences,Physics,Mechanics,2,D
+2,Blue,Francisco,Sciences,Physics,Mechanics,3,C
+2,Blue,Francisco,Sciences,Physics,Thermodynamics,1,E
+2,Blue,Francisco,Sciences,Physics,Thermodynamics,2,C
+2,Blue,Francisco,Sciences,Physics,Thermodynamics,3,D
+2,Blue,Francisco,Humanities,Geography,Physical Geography,1,B
+2,Blue,Francisco,Humanities,Geography,Physical Geography,2,A
+2,Blue,Francisco,Humanities,Geography,Physical Geography,3,A
+2,Blue,Francisco,Humanities,Geography,Human Geography,1,B
+2,Blue,Francisco,Humanities,Geography,Human Geography,2,A
+2,Blue,Francisco,Humanities,Geography,Human Geography,3,A
+2,Blue,Francisco,Humanities,History,Ancient History,1,B
+2,Blue,Francisco,Humanities,History,Ancient History,2,B
+2,Blue,Francisco,Humanities,History,Ancient History,3,A
+2,Blue,Francisco,Humanities,History,Medieval History,1,A
+2,Blue,Francisco,Humanities,History,Medieval History,2,A
+2,Blue,Francisco,Humanities,History,Medieval History,3,A
+2,Blue,Christopher,Languages,English,English Reading,1,E
+2,Blue,Christopher,Languages,English,English Reading,2,A
+2,Blue,Christopher,Languages,English,English Reading,3,B
+2,Blue,Christopher,Languages,English,English Writing,1,E
+2,Blue,Christopher,Languages,English,English Writing,2,E
+2,Blue,Christopher,Languages,English,English Writing,3,A
+2,Blue,Christopher,Languages,Spanish,Vocabulary,1,E
+2,Blue,Christopher,Languages,Spanish,Vocabulary,2,D
+2,Blue,Christopher,Languages,Spanish,Vocabulary,3,E
+2,Blue,Christopher,Languages,Spanish,Spanish Grammar,1,D
+2,Blue,Christopher,Languages,Spanish,Spanish Grammar,2,C
+2,Blue,Christopher,Languages,Spanish,Spanish Grammar,3,E
+2,Blue,Christopher,Sciences,Math,Algebra,1,B
+2,Blue,Christopher,Sciences,Math,Algebra,2,A
+2,Blue,Christopher,Sciences,Math,Algebra,3,A
+2,Blue,Christopher,Sciences,Math,Geometry,1,C
+2,Blue,Christopher,Sciences,Math,Geometry,2,A
+2,Blue,Christopher,Sciences,Math,Geometry,3,A
+2,Blue,Christopher,Sciences,Physics,Mechanics,1,B
+2,Blue,Christopher,Sciences,Physics,Mechanics,2,A
+2,Blue,Christopher,Sciences,Physics,Mechanics,3,B
+2,Blue,Christopher,Sciences,Physics,Thermodynamics,1,C
+2,Blue,Christopher,Sciences,Physics,Thermodynamics,2,A
+2,Blue,Christopher,Sciences,Physics,Thermodynamics,3,A
+2,Blue,Christopher,Humanities,Geography,Physical Geography,1,B
+2,Blue,Christopher,Humanities,Geography,Physical Geography,2,D
+2,Blue,Christopher,Humanities,Geography,Physical Geography,3,D
+2,Blue,Christopher,Humanities,Geography,Human Geography,1,A
+2,Blue,Christopher,Humanities,Geography,Human Geography,2,A
+2,Blue,Christopher,Humanities,Geography,Human Geography,3,C
+2,Blue,Christopher,Humanities,History,Ancient History,1,C
+2,Blue,Christopher,Humanities,History,Ancient History,2,B
+2,Blue,Christopher,Humanities,History,Ancient History,3,B
+2,Blue,Christopher,Humanities,History,Medieval History,1,A
+2,Blue,Christopher,Humanities,History,Medieval History,2,A
+2,Blue,Christopher,Humanities,History,Medieval History,3,C
+2,Blue,Kelly,Languages,English,English Reading,1,B
+2,Blue,Kelly,Languages,English,English Reading,2,B
+2,Blue,Kelly,Languages,English,English Reading,3,A
+2,Blue,Kelly,Languages,English,English Writing,1,A
+2,Blue,Kelly,Languages,English,English Writing,2,A
+2,Blue,Kelly,Languages,English,English Writing,3,B
+2,Blue,Kelly,Languages,Spanish,Vocabulary,1,C
+2,Blue,Kelly,Languages,Spanish,Vocabulary,2,A
+2,Blue,Kelly,Languages,Spanish,Vocabulary,3,A
+2,Blue,Kelly,Languages,Spanish,Spanish Grammar,1,A
+2,Blue,Kelly,Languages,Spanish,Spanish Grammar,2,B
+2,Blue,Kelly,Languages,Spanish,Spanish Grammar,3,B
+2,Blue,Kelly,Sciences,Math,Algebra,1,A
+2,Blue,Kelly,Sciences,Math,Algebra,2,B
+2,Blue,Kelly,Sciences,Math,Algebra,3,A
+2,Blue,Kelly,Sciences,Math,Geometry,1,A
+2,Blue,Kelly,Sciences,Math,Geometry,2,A
+2,Blue,Kelly,Sciences,Math,Geometry,3,A
+2,Blue,Kelly,Sciences,Physics,Mechanics,1,A
+2,Blue,Kelly,Sciences,Physics,Mechanics,2,A
+2,Blue,Kelly,Sciences,Physics,Mechanics,3,A
+2,Blue,Kelly,Sciences,Physics,Thermodynamics,1,B
+2,Blue,Kelly,Sciences,Physics,Thermodynamics,2,A
+2,Blue,Kelly,Sciences,Physics,Thermodynamics,3,B
+2,Blue,Kelly,Humanities,Geography,Physical Geography,1,E
+2,Blue,Kelly,Humanities,Geography,Physical Geography,2,E
+2,Blue,Kelly,Humanities,Geography,Physical Geography,3,B
+2,Blue,Kelly,Humanities,Geography,Human Geography,1,B
+2,Blue,Kelly,Humanities,Geography,Human Geography,2,C
+2,Blue,Kelly,Humanities,Geography,Human Geography,3,E
+2,Blue,Kelly,Humanities,History,Ancient History,1,C
+2,Blue,Kelly,Humanities,History,Ancient History,2,E
+2,Blue,Kelly,Humanities,History,Ancient History,3,B
+2,Blue,Kelly,Humanities,History,Medieval History,1,D
+2,Blue,Kelly,Humanities,History,Medieval History,2,C
+2,Blue,Kelly,Humanities,History,Medieval History,3,C
+2,Blue,Omar,Languages,English,English Reading,1,A
+2,Blue,Omar,Languages,English,English Reading,2,B
+2,Blue,Omar,Languages,English,English Reading,3,A
+2,Blue,Omar,Languages,English,English Writing,1,A
+2,Blue,Omar,Languages,English,English Writing,2,B
+2,Blue,Omar,Languages,English,English Writing,3,A
+2,Blue,Omar,Languages,Spanish,Vocabulary,1,B
+2,Blue,Omar,Languages,Spanish,Vocabulary,2,A
+2,Blue,Omar,Languages,Spanish,Vocabulary,3,B
+2,Blue,Omar,Languages,Spanish,Spanish Grammar,1,A
+2,Blue,Omar,Languages,Spanish,Spanish Grammar,2,A
+2,Blue,Omar,Languages,Spanish,Spanish Grammar,3,A
+2,Blue,Omar,Sciences,Math,Algebra,1,C
+2,Blue,Omar,Sciences,Math,Algebra,2,B
+2,Blue,Omar,Sciences,Math,Algebra,3,B
+2,Blue,Omar,Sciences,Math,Geometry,1,B
+2,Blue,Omar,Sciences,Math,Geometry,2,C
+2,Blue,Omar,Sciences,Math,Geometry,3,B
+2,Blue,Omar,Sciences,Physics,Mechanics,1,B
+2,Blue,Omar,Sciences,Physics,Mechanics,2,A
+2,Blue,Omar,Sciences,Physics,Mechanics,3,E
+2,Blue,Omar,Sciences,Physics,Thermodynamics,1,B
+2,Blue,Omar,Sciences,Physics,Thermodynamics,2,E
+2,Blue,Omar,Sciences,Physics,Thermodynamics,3,C
+2,Blue,Omar,Humanities,Geography,Physical Geography,1,D
+2,Blue,Omar,Humanities,Geography,Physical Geography,2,C
+2,Blue,Omar,Humanities,Geography,Physical Geography,3,B
+2,Blue,Omar,Humanities,Geography,Human Geography,1,B
+2,Blue,Omar,Humanities,Geography,Human Geography,2,C
+2,Blue,Omar,Humanities,Geography,Human Geography,3,E
+2,Blue,Omar,Humanities,History,Ancient History,1,E
+2,Blue,Omar,Humanities,History,Ancient History,2,E
+2,Blue,Omar,Humanities,History,Ancient History,3,D
+2,Blue,Omar,Humanities,History,Medieval History,1,E
+2,Blue,Omar,Humanities,History,Medieval History,2,D
+2,Blue,Omar,Humanities,History,Medieval History,3,E
+3,Yellow,Edwin,Languages,English,English Reading,1,A
+3,Yellow,Edwin,Languages,English,English Reading,2,A
+3,Yellow,Edwin,Languages,English,English Reading,3,A
+3,Yellow,Edwin,Languages,English,English Writing,1,B
+3,Yellow,Edwin,Languages,English,English Writing,2,B
+3,Yellow,Edwin,Languages,English,English Writing,3,D
+3,Yellow,Edwin,Languages,Spanish,Vocabulary,1,E
+3,Yellow,Edwin,Languages,Spanish,Vocabulary,2,E
+3,Yellow,Edwin,Languages,Spanish,Vocabulary,3,C
+3,Yellow,Edwin,Languages,Spanish,Spanish Grammar,1,E
+3,Yellow,Edwin,Languages,Spanish,Spanish Grammar,2,C
+3,Yellow,Edwin,Languages,Spanish,Spanish Grammar,3,C
+3,Yellow,Edwin,Sciences,Math,Algebra,1,B
+3,Yellow,Edwin,Sciences,Math,Algebra,2,A
+3,Yellow,Edwin,Sciences,Math,Algebra,3,A
+3,Yellow,Edwin,Sciences,Math,Geometry,1,B
+3,Yellow,Edwin,Sciences,Math,Geometry,2,B
+3,Yellow,Edwin,Sciences,Math,Geometry,3,A
+3,Yellow,Edwin,Sciences,Physics,Mechanics,1,A
+3,Yellow,Edwin,Sciences,Physics,Mechanics,2,A
+3,Yellow,Edwin,Sciences,Physics,Mechanics,3,A
+3,Yellow,Edwin,Sciences,Physics,Thermodynamics,1,A
+3,Yellow,Edwin,Sciences,Physics,Thermodynamics,2,A
+3,Yellow,Edwin,Sciences,Physics,Thermodynamics,3,A
+3,Yellow,Edwin,Humanities,Geography,Physical Geography,1,E
+3,Yellow,Edwin,Humanities,Geography,Physical Geography,2,E
+3,Yellow,Edwin,Humanities,Geography,Physical Geography,3,B
+3,Yellow,Edwin,Humanities,Geography,Human Geography,1,C
+3,Yellow,Edwin,Humanities,Geography,Human Geography,2,C
+3,Yellow,Edwin,Humanities,Geography,Human Geography,3,D
+3,Yellow,Edwin,Humanities,History,Ancient History,1,C
+3,Yellow,Edwin,Humanities,History,Ancient History,2,E
+3,Yellow,Edwin,Humanities,History,Ancient History,3,E
+3,Yellow,Edwin,Humanities,History,Medieval History,1,C
+3,Yellow,Edwin,Humanities,History,Medieval History,2,C
+3,Yellow,Edwin,Humanities,History,Medieval History,3,A
+3,Yellow,Leah,Languages,English,English Reading,1,E
+3,Yellow,Leah,Languages,English,English Reading,2,D
+3,Yellow,Leah,Languages,English,English Reading,3,E
+3,Yellow,Leah,Languages,English,English Writing,1,B
+3,Yellow,Leah,Languages,English,English Writing,2,C
+3,Yellow,Leah,Languages,English,English Writing,3,E
+3,Yellow,Leah,Languages,Spanish,Vocabulary,1,E
+3,Yellow,Leah,Languages,Spanish,Vocabulary,2,B
+3,Yellow,Leah,Languages,Spanish,Vocabulary,3,E
+3,Yellow,Leah,Languages,Spanish,Spanish Grammar,1,A
+3,Yellow,Leah,Languages,Spanish,Spanish Grammar,2,D
+3,Yellow,Leah,Languages,Spanish,Spanish Grammar,3,A
+3,Yellow,Leah,Sciences,Math,Algebra,1,B
+3,Yellow,Leah,Sciences,Math,Algebra,2,B
+3,Yellow,Leah,Sciences,Math,Algebra,3,B
+3,Yellow,Leah,Sciences,Math,Geometry,1,A
+3,Yellow,Leah,Sciences,Math,Geometry,2,C
+3,Yellow,Leah,Sciences,Math,Geometry,3,A
+3,Yellow,Leah,Sciences,Physics,Mechanics,1,A
+3,Yellow,Leah,Sciences,Physics,Mechanics,2,A
+3,Yellow,Leah,Sciences,Physics,Mechanics,3,A
+3,Yellow,Leah,Sciences,Physics,Thermodynamics,1,B
+3,Yellow,Leah,Sciences,Physics,Thermodynamics,2,A
+3,Yellow,Leah,Sciences,Physics,Thermodynamics,3,A
+3,Yellow,Leah,Humanities,Geography,Physical Geography,1,B
+3,Yellow,Leah,Humanities,Geography,Physical Geography,2,C
+3,Yellow,Leah,Humanities,Geography,Physical Geography,3,B
+3,Yellow,Leah,Humanities,Geography,Human Geography,1,C
+3,Yellow,Leah,Humanities,Geography,Human Geography,2,D
+3,Yellow,Leah,Humanities,Geography,Human Geography,3,B
+3,Yellow,Leah,Humanities,History,Ancient History,1,D
+3,Yellow,Leah,Humanities,History,Ancient History,2,A
+3,Yellow,Leah,Humanities,History,Ancient History,3,C
+3,Yellow,Leah,Humanities,History,Medieval History,1,C
+3,Yellow,Leah,Humanities,History,Medieval History,2,C
+3,Yellow,Leah,Humanities,History,Medieval History,3,B
+3,Yellow,Francisco,Languages,English,English Reading,1,A
+3,Yellow,Francisco,Languages,English,English Reading,2,A
+3,Yellow,Francisco,Languages,English,English Reading,3,A
+3,Yellow,Francisco,Languages,English,English Writing,1,A
+3,Yellow,Francisco,Languages,English,English Writing,2,B
+3,Yellow,Francisco,Languages,English,English Writing,3,A
+3,Yellow,Francisco,Languages,Spanish,Vocabulary,1,A
+3,Yellow,Francisco,Languages,Spanish,Vocabulary,2,A
+3,Yellow,Francisco,Languages,Spanish,Vocabulary,3,A
+3,Yellow,Francisco,Languages,Spanish,Spanish Grammar,1,A
+3,Yellow,Francisco,Languages,Spanish,Spanish Grammar,2,A
+3,Yellow,Francisco,Languages,Spanish,Spanish Grammar,3,A
+3,Yellow,Francisco,Sciences,Math,Algebra,1,E
+3,Yellow,Francisco,Sciences,Math,Algebra,2,C
+3,Yellow,Francisco,Sciences,Math,Algebra,3,C
+3,Yellow,Francisco,Sciences,Math,Geometry,1,C
+3,Yellow,Francisco,Sciences,Math,Geometry,2,B
+3,Yellow,Francisco,Sciences,Math,Geometry,3,C
+3,Yellow,Francisco,Sciences,Physics,Mechanics,1,E
+3,Yellow,Francisco,Sciences,Physics,Mechanics,2,E
+3,Yellow,Francisco,Sciences,Physics,Mechanics,3,D
+3,Yellow,Francisco,Sciences,Physics,Thermodynamics,1,D
+3,Yellow,Francisco,Sciences,Physics,Thermodynamics,2,D
+3,Yellow,Francisco,Sciences,Physics,Thermodynamics,3,B
+3,Yellow,Francisco,Humanities,Geography,Physical Geography,1,B
+3,Yellow,Francisco,Humanities,Geography,Physical Geography,2,C
+3,Yellow,Francisco,Humanities,Geography,Physical Geography,3,D
+3,Yellow,Francisco,Humanities,Geography,Human Geography,1,C
+3,Yellow,Francisco,Humanities,Geography,Human Geography,2,A
+3,Yellow,Francisco,Humanities,Geography,Human Geography,3,A
+3,Yellow,Francisco,Humanities,History,Ancient History,1,A
+3,Yellow,Francisco,Humanities,History,Ancient History,2,E
+3,Yellow,Francisco,Humanities,History,Ancient History,3,A
+3,Yellow,Francisco,Humanities,History,Medieval History,1,E
+3,Yellow,Francisco,Humanities,History,Medieval History,2,B
+3,Yellow,Francisco,Humanities,History,Medieval History,3,A
+3,Yellow,Christopher,Languages,English,English Reading,1,E
+3,Yellow,Christopher,Languages,English,English Reading,2,D
+3,Yellow,Christopher,Languages,English,English Reading,3,B
+3,Yellow,Christopher,Languages,English,English Writing,1,A
+3,Yellow,Christopher,Languages,English,English Writing,2,B
+3,Yellow,Christopher,Languages,English,English Writing,3,E
+3,Yellow,Christopher,Languages,Spanish,Vocabulary,1,D
+3,Yellow,Christopher,Languages,Spanish,Vocabulary,2,D
+3,Yellow,Christopher,Languages,Spanish,Vocabulary,3,A
+3,Yellow,Christopher,Languages,Spanish,Spanish Grammar,1,D
+3,Yellow,Christopher,Languages,Spanish,Spanish Grammar,2,B
+3,Yellow,Christopher,Languages,Spanish,Spanish Grammar,3,E
+3,Yellow,Christopher,Sciences,Math,Algebra,1,C
+3,Yellow,Christopher,Sciences,Math,Algebra,2,A
+3,Yellow,Christopher,Sciences,Math,Algebra,3,A
+3,Yellow,Christopher,Sciences,Math,Geometry,1,A
+3,Yellow,Christopher,Sciences,Math,Geometry,2,C
+3,Yellow,Christopher,Sciences,Math,Geometry,3,A
+3,Yellow,Christopher,Sciences,Physics,Mechanics,1,A
+3,Yellow,Christopher,Sciences,Physics,Mechanics,2,C
+3,Yellow,Christopher,Sciences,Physics,Mechanics,3,B
+3,Yellow,Christopher,Sciences,Physics,Thermodynamics,1,A
+3,Yellow,Christopher,Sciences,Physics,Thermodynamics,2,A
+3,Yellow,Christopher,Sciences,Physics,Thermodynamics,3,D
+3,Yellow,Christopher,Humanities,Geography,Physical Geography,1,A
+3,Yellow,Christopher,Humanities,Geography,Physical Geography,2,C
+3,Yellow,Christopher,Humanities,Geography,Physical Geography,3,A
+3,Yellow,Christopher,Humanities,Geography,Human Geography,1,A
+3,Yellow,Christopher,Humanities,Geography,Human Geography,2,B
+3,Yellow,Christopher,Humanities,Geography,Human Geography,3,B
+3,Yellow,Christopher,Humanities,History,Ancient History,1,A
+3,Yellow,Christopher,Humanities,History,Ancient History,2,A
+3,Yellow,Christopher,Humanities,History,Ancient History,3,B
+3,Yellow,Christopher,Humanities,History,Medieval History,1,D
+3,Yellow,Christopher,Humanities,History,Medieval History,2,C
+3,Yellow,Christopher,Humanities,History,Medieval History,3,C
+3,Yellow,Kelly,Languages,English,English Reading,1,D
+3,Yellow,Kelly,Languages,English,English Reading,2,A
+3,Yellow,Kelly,Languages,English,English Reading,3,A
+3,Yellow,Kelly,Languages,English,English Writing,1,C
+3,Yellow,Kelly,Languages,English,English Writing,2,B
+3,Yellow,Kelly,Languages,English,English Writing,3,B
+3,Yellow,Kelly,Languages,Spanish,Vocabulary,1,A
+3,Yellow,Kelly,Languages,Spanish,Vocabulary,2,C
+3,Yellow,Kelly,Languages,Spanish,Vocabulary,3,C
+3,Yellow,Kelly,Languages,Spanish,Spanish Grammar,1,B
+3,Yellow,Kelly,Languages,Spanish,Spanish Grammar,2,A
+3,Yellow,Kelly,Languages,Spanish,Spanish Grammar,3,C
+3,Yellow,Kelly,Sciences,Math,Algebra,1,A
+3,Yellow,Kelly,Sciences,Math,Algebra,2,A
+3,Yellow,Kelly,Sciences,Math,Algebra,3,A
+3,Yellow,Kelly,Sciences,Math,Geometry,1,A
+3,Yellow,Kelly,Sciences,Math,Geometry,2,A
+3,Yellow,Kelly,Sciences,Math,Geometry,3,C
+3,Yellow,Kelly,Sciences,Physics,Mechanics,1,A
+3,Yellow,Kelly,Sciences,Physics,Mechanics,2,A
+3,Yellow,Kelly,Sciences,Physics,Mechanics,3,A
+3,Yellow,Kelly,Sciences,Physics,Thermodynamics,1,A
+3,Yellow,Kelly,Sciences,Physics,Thermodynamics,2,A
+3,Yellow,Kelly,Sciences,Physics,Thermodynamics,3,A
+3,Yellow,Kelly,Humanities,Geography,Physical Geography,1,D
+3,Yellow,Kelly,Humanities,Geography,Physical Geography,2,E
+3,Yellow,Kelly,Humanities,Geography,Physical Geography,3,E
+3,Yellow,Kelly,Humanities,Geography,Human Geography,1,E
+3,Yellow,Kelly,Humanities,Geography,Human Geography,2,C
+3,Yellow,Kelly,Humanities,Geography,Human Geography,3,C
+3,Yellow,Kelly,Humanities,History,Ancient History,1,D
+3,Yellow,Kelly,Humanities,History,Ancient History,2,C
+3,Yellow,Kelly,Humanities,History,Ancient History,3,C
+3,Yellow,Kelly,Humanities,History,Medieval History,1,D
+3,Yellow,Kelly,Humanities,History,Medieval History,2,A
+3,Yellow,Kelly,Humanities,History,Medieval History,3,C
+3,Yellow,Omar,Languages,English,English Reading,1,A
+3,Yellow,Omar,Languages,English,English Reading,2,B
+3,Yellow,Omar,Languages,English,English Reading,3,A
+3,Yellow,Omar,Languages,English,English Writing,1,A
+3,Yellow,Omar,Languages,English,English Writing,2,A
+3,Yellow,Omar,Languages,English,English Writing,3,A
+3,Yellow,Omar,Languages,Spanish,Vocabulary,1,A
+3,Yellow,Omar,Languages,Spanish,Vocabulary,2,C
+3,Yellow,Omar,Languages,Spanish,Vocabulary,3,B
+3,Yellow,Omar,Languages,Spanish,Spanish Grammar,1,A
+3,Yellow,Omar,Languages,Spanish,Spanish Grammar,2,A
+3,Yellow,Omar,Languages,Spanish,Spanish Grammar,3,B
+3,Yellow,Omar,Sciences,Math,Algebra,1,C
+3,Yellow,Omar,Sciences,Math,Algebra,2,D
+3,Yellow,Omar,Sciences,Math,Algebra,3,C
+3,Yellow,Omar,Sciences,Math,Geometry,1,E
+3,Yellow,Omar,Sciences,Math,Geometry,2,D
+3,Yellow,Omar,Sciences,Math,Geometry,3,E
+3,Yellow,Omar,Sciences,Physics,Mechanics,1,C
+3,Yellow,Omar,Sciences,Physics,Mechanics,2,C
+3,Yellow,Omar,Sciences,Physics,Mechanics,3,C
+3,Yellow,Omar,Sciences,Physics,Thermodynamics,1,C
+3,Yellow,Omar,Sciences,Physics,Thermodynamics,2,D
+3,Yellow,Omar,Sciences,Physics,Thermodynamics,3,B
+3,Yellow,Omar,Humanities,Geography,Physical Geography,1,B
+3,Yellow,Omar,Humanities,Geography,Physical Geography,2,A
+3,Yellow,Omar,Humanities,Geography,Physical Geography,3,C
+3,Yellow,Omar,Humanities,Geography,Human Geography,1,B
+3,Yellow,Omar,Humanities,Geography,Human Geography,2,E
+3,Yellow,Omar,Humanities,Geography,Human Geography,3,C
+3,Yellow,Omar,Humanities,History,Ancient History,1,C
+3,Yellow,Omar,Humanities,History,Ancient History,2,D
+3,Yellow,Omar,Humanities,History,Ancient History,3,C
+3,Yellow,Omar,Humanities,History,Medieval History,1,C
+3,Yellow,Omar,Humanities,History,Medieval History,2,D
+3,Yellow,Omar,Humanities,History,Medieval History,3,E
+3,Blue,Edwin,Languages,English,English Reading,1,E
+3,Blue,Edwin,Languages,English,English Reading,2,B
+3,Blue,Edwin,Languages,English,English Reading,3,D
+3,Blue,Edwin,Languages,English,English Writing,1,B
+3,Blue,Edwin,Languages,English,English Writing,2,D
+3,Blue,Edwin,Languages,English,English Writing,3,E
+3,Blue,Edwin,Languages,Spanish,Vocabulary,1,C
+3,Blue,Edwin,Languages,Spanish,Vocabulary,2,C
+3,Blue,Edwin,Languages,Spanish,Vocabulary,3,B
+3,Blue,Edwin,Languages,Spanish,Spanish Grammar,1,C
+3,Blue,Edwin,Languages,Spanish,Spanish Grammar,2,E
+3,Blue,Edwin,Languages,Spanish,Spanish Grammar,3,E
+3,Blue,Edwin,Sciences,Math,Algebra,1,A
+3,Blue,Edwin,Sciences,Math,Algebra,2,A
+3,Blue,Edwin,Sciences,Math,Algebra,3,A
+3,Blue,Edwin,Sciences,Math,Geometry,1,A
+3,Blue,Edwin,Sciences,Math,Geometry,2,A
+3,Blue,Edwin,Sciences,Math,Geometry,3,A
+3,Blue,Edwin,Sciences,Physics,Mechanics,1,A
+3,Blue,Edwin,Sciences,Physics,Mechanics,2,A
+3,Blue,Edwin,Sciences,Physics,Mechanics,3,A
+3,Blue,Edwin,Sciences,Physics,Thermodynamics,1,A
+3,Blue,Edwin,Sciences,Physics,Thermodynamics,2,A
+3,Blue,Edwin,Sciences,Physics,Thermodynamics,3,A
+3,Blue,Edwin,Humanities,Geography,Physical Geography,1,B
+3,Blue,Edwin,Humanities,Geography,Physical Geography,2,B
+3,Blue,Edwin,Humanities,Geography,Physical Geography,3,A
+3,Blue,Edwin,Humanities,Geography,Human Geography,1,E
+3,Blue,Edwin,Humanities,Geography,Human Geography,2,A
+3,Blue,Edwin,Humanities,Geography,Human Geography,3,E
+3,Blue,Edwin,Humanities,History,Ancient History,1,E
+3,Blue,Edwin,Humanities,History,Ancient History,2,A
+3,Blue,Edwin,Humanities,History,Ancient History,3,C
+3,Blue,Edwin,Humanities,History,Medieval History,1,E
+3,Blue,Edwin,Humanities,History,Medieval History,2,E
+3,Blue,Edwin,Humanities,History,Medieval History,3,D
+3,Blue,Leah,Languages,English,English Reading,1,D
+3,Blue,Leah,Languages,English,English Reading,2,C
+3,Blue,Leah,Languages,English,English Reading,3,A
+3,Blue,Leah,Languages,English,English Writing,1,B
+3,Blue,Leah,Languages,English,English Writing,2,E
+3,Blue,Leah,Languages,English,English Writing,3,B
+3,Blue,Leah,Languages,Spanish,Vocabulary,1,A
+3,Blue,Leah,Languages,Spanish,Vocabulary,2,E
+3,Blue,Leah,Languages,Spanish,Vocabulary,3,C
+3,Blue,Leah,Languages,Spanish,Spanish Grammar,1,D
+3,Blue,Leah,Languages,Spanish,Spanish Grammar,2,E
+3,Blue,Leah,Languages,Spanish,Spanish Grammar,3,C
+3,Blue,Leah,Sciences,Math,Algebra,1,A
+3,Blue,Leah,Sciences,Math,Algebra,2,B
+3,Blue,Leah,Sciences,Math,Algebra,3,B
+3,Blue,Leah,Sciences,Math,Geometry,1,A
+3,Blue,Leah,Sciences,Math,Geometry,2,A
+3,Blue,Leah,Sciences,Math,Geometry,3,B
+3,Blue,Leah,Sciences,Physics,Mechanics,1,C
+3,Blue,Leah,Sciences,Physics,Mechanics,2,B
+3,Blue,Leah,Sciences,Physics,Mechanics,3,A
+3,Blue,Leah,Sciences,Physics,Thermodynamics,1,A
+3,Blue,Leah,Sciences,Physics,Thermodynamics,2,A
+3,Blue,Leah,Sciences,Physics,Thermodynamics,3,B
+3,Blue,Leah,Humanities,Geography,Physical Geography,1,D
+3,Blue,Leah,Humanities,Geography,Physical Geography,2,B
+3,Blue,Leah,Humanities,Geography,Physical Geography,3,D
+3,Blue,Leah,Humanities,Geography,Human Geography,1,E
+3,Blue,Leah,Humanities,Geography,Human Geography,2,A
+3,Blue,Leah,Humanities,Geography,Human Geography,3,C
+3,Blue,Leah,Humanities,History,Ancient History,1,A
+3,Blue,Leah,Humanities,History,Ancient History,2,C
+3,Blue,Leah,Humanities,History,Ancient History,3,B
+3,Blue,Leah,Humanities,History,Medieval History,1,C
+3,Blue,Leah,Humanities,History,Medieval History,2,C
+3,Blue,Leah,Humanities,History,Medieval History,3,A
+3,Blue,Francisco,Languages,English,English Reading,1,B
+3,Blue,Francisco,Languages,English,English Reading,2,A
+3,Blue,Francisco,Languages,English,English Reading,3,C
+3,Blue,Francisco,Languages,English,English Writing,1,A
+3,Blue,Francisco,Languages,English,English Writing,2,A
+3,Blue,Francisco,Languages,English,English Writing,3,A
+3,Blue,Francisco,Languages,Spanish,Vocabulary,1,A
+3,Blue,Francisco,Languages,Spanish,Vocabulary,2,A
+3,Blue,Francisco,Languages,Spanish,Vocabulary,3,B
+3,Blue,Francisco,Languages,Spanish,Spanish Grammar,1,A
+3,Blue,Francisco,Languages,Spanish,Spanish Grammar,2,C
+3,Blue,Francisco,Languages,Spanish,Spanish Grammar,3,B
+3,Blue,Francisco,Sciences,Math,Algebra,1,D
+3,Blue,Francisco,Sciences,Math,Algebra,2,E
+3,Blue,Francisco,Sciences,Math,Algebra,3,D
+3,Blue,Francisco,Sciences,Math,Geometry,1,C
+3,Blue,Francisco,Sciences,Math,Geometry,2,C
+3,Blue,Francisco,Sciences,Math,Geometry,3,C
+3,Blue,Francisco,Sciences,Physics,Mechanics,1,D
+3,Blue,Francisco,Sciences,Physics,Mechanics,2,C
+3,Blue,Francisco,Sciences,Physics,Mechanics,3,C
+3,Blue,Francisco,Sciences,Physics,Thermodynamics,1,B
+3,Blue,Francisco,Sciences,Physics,Thermodynamics,2,D
+3,Blue,Francisco,Sciences,Physics,Thermodynamics,3,D
+3,Blue,Francisco,Humanities,Geography,Physical Geography,1,A
+3,Blue,Francisco,Humanities,Geography,Physical Geography,2,A
+3,Blue,Francisco,Humanities,Geography,Physical Geography,3,B
+3,Blue,Francisco,Humanities,Geography,Human Geography,1,C
+3,Blue,Francisco,Humanities,Geography,Human Geography,2,A
+3,Blue,Francisco,Humanities,Geography,Human Geography,3,E
+3,Blue,Francisco,Humanities,History,Ancient History,1,C
+3,Blue,Francisco,Humanities,History,Ancient History,2,A
+3,Blue,Francisco,Humanities,History,Ancient History,3,A
+3,Blue,Francisco,Humanities,History,Medieval History,1,B
+3,Blue,Francisco,Humanities,History,Medieval History,2,A
+3,Blue,Francisco,Humanities,History,Medieval History,3,A
+3,Blue,Christopher,Languages,English,English Reading,1,E
+3,Blue,Christopher,Languages,English,English Reading,2,E
+3,Blue,Christopher,Languages,English,English Reading,3,D
+3,Blue,Christopher,Languages,English,English Writing,1,D
+3,Blue,Christopher,Languages,English,English Writing,2,E
+3,Blue,Christopher,Languages,English,English Writing,3,C
+3,Blue,Christopher,Languages,Spanish,Vocabulary,1,E
+3,Blue,Christopher,Languages,Spanish,Vocabulary,2,D
+3,Blue,Christopher,Languages,Spanish,Vocabulary,3,A
+3,Blue,Christopher,Languages,Spanish,Spanish Grammar,1,D
+3,Blue,Christopher,Languages,Spanish,Spanish Grammar,2,E
+3,Blue,Christopher,Languages,Spanish,Spanish Grammar,3,C
+3,Blue,Christopher,Sciences,Math,Algebra,1,A
+3,Blue,Christopher,Sciences,Math,Algebra,2,A
+3,Blue,Christopher,Sciences,Math,Algebra,3,A
+3,Blue,Christopher,Sciences,Math,Geometry,1,A
+3,Blue,Christopher,Sciences,Math,Geometry,2,A
+3,Blue,Christopher,Sciences,Math,Geometry,3,C
+3,Blue,Christopher,Sciences,Physics,Mechanics,1,A
+3,Blue,Christopher,Sciences,Physics,Mechanics,2,A
+3,Blue,Christopher,Sciences,Physics,Mechanics,3,D
+3,Blue,Christopher,Sciences,Physics,Thermodynamics,1,A
+3,Blue,Christopher,Sciences,Physics,Thermodynamics,2,A
+3,Blue,Christopher,Sciences,Physics,Thermodynamics,3,A
+3,Blue,Christopher,Humanities,Geography,Physical Geography,1,C
+3,Blue,Christopher,Humanities,Geography,Physical Geography,2,C
+3,Blue,Christopher,Humanities,Geography,Physical Geography,3,C
+3,Blue,Christopher,Humanities,Geography,Human Geography,1,B
+3,Blue,Christopher,Humanities,Geography,Human Geography,2,C
+3,Blue,Christopher,Humanities,Geography,Human Geography,3,C
+3,Blue,Christopher,Humanities,History,Ancient History,1,D
+3,Blue,Christopher,Humanities,History,Ancient History,2,C
+3,Blue,Christopher,Humanities,History,Ancient History,3,C
+3,Blue,Christopher,Humanities,History,Medieval History,1,D
+3,Blue,Christopher,Humanities,History,Medieval History,2,C
+3,Blue,Christopher,Humanities,History,Medieval History,3,C
+3,Blue,Kelly,Languages,English,English Reading,1,B
+3,Blue,Kelly,Languages,English,English Reading,2,A
+3,Blue,Kelly,Languages,English,English Reading,3,B
+3,Blue,Kelly,Languages,English,English Writing,1,B
+3,Blue,Kelly,Languages,English,English Writing,2,A
+3,Blue,Kelly,Languages,English,English Writing,3,B
+3,Blue,Kelly,Languages,Spanish,Vocabulary,1,C
+3,Blue,Kelly,Languages,Spanish,Vocabulary,2,A
+3,Blue,Kelly,Languages,Spanish,Vocabulary,3,B
+3,Blue,Kelly,Languages,Spanish,Spanish Grammar,1,C
+3,Blue,Kelly,Languages,Spanish,Spanish Grammar,2,B
+3,Blue,Kelly,Languages,Spanish,Spanish Grammar,3,B
+3,Blue,Kelly,Sciences,Math,Algebra,1,A
+3,Blue,Kelly,Sciences,Math,Algebra,2,A
+3,Blue,Kelly,Sciences,Math,Algebra,3,A
+3,Blue,Kelly,Sciences,Math,Geometry,1,A
+3,Blue,Kelly,Sciences,Math,Geometry,2,A
+3,Blue,Kelly,Sciences,Math,Geometry,3,A
+3,Blue,Kelly,Sciences,Physics,Mechanics,1,A
+3,Blue,Kelly,Sciences,Physics,Mechanics,2,A
+3,Blue,Kelly,Sciences,Physics,Mechanics,3,A
+3,Blue,Kelly,Sciences,Physics,Thermodynamics,1,A
+3,Blue,Kelly,Sciences,Physics,Thermodynamics,2,C
+3,Blue,Kelly,Sciences,Physics,Thermodynamics,3,A
+3,Blue,Kelly,Humanities,Geography,Physical Geography,1,A
+3,Blue,Kelly,Humanities,Geography,Physical Geography,2,B
+3,Blue,Kelly,Humanities,Geography,Physical Geography,3,D
+3,Blue,Kelly,Humanities,Geography,Human Geography,1,E
+3,Blue,Kelly,Humanities,Geography,Human Geography,2,D
+3,Blue,Kelly,Humanities,Geography,Human Geography,3,D
+3,Blue,Kelly,Humanities,History,Ancient History,1,C
+3,Blue,Kelly,Humanities,History,Ancient History,2,D
+3,Blue,Kelly,Humanities,History,Ancient History,3,D
+3,Blue,Kelly,Humanities,History,Medieval History,1,C
+3,Blue,Kelly,Humanities,History,Medieval History,2,C
+3,Blue,Kelly,Humanities,History,Medieval History,3,C
+3,Blue,Omar,Languages,English,English Reading,1,A
+3,Blue,Omar,Languages,English,English Reading,2,A
+3,Blue,Omar,Languages,English,English Reading,3,A
+3,Blue,Omar,Languages,English,English Writing,1,A
+3,Blue,Omar,Languages,English,English Writing,2,A
+3,Blue,Omar,Languages,English,English Writing,3,A
+3,Blue,Omar,Languages,Spanish,Vocabulary,1,C
+3,Blue,Omar,Languages,Spanish,Vocabulary,2,A
+3,Blue,Omar,Languages,Spanish,Vocabulary,3,A
+3,Blue,Omar,Languages,Spanish,Spanish Grammar,1,A
+3,Blue,Omar,Languages,Spanish,Spanish Grammar,2,C
+3,Blue,Omar,Languages,Spanish,Spanish Grammar,3,A
+3,Blue,Omar,Sciences,Math,Algebra,1,B
+3,Blue,Omar,Sciences,Math,Algebra,2,D
+3,Blue,Omar,Sciences,Math,Algebra,3,C
+3,Blue,Omar,Sciences,Math,Geometry,1,C
+3,Blue,Omar,Sciences,Math,Geometry,2,C
+3,Blue,Omar,Sciences,Math,Geometry,3,B
+3,Blue,Omar,Sciences,Physics,Mechanics,1,D
+3,Blue,Omar,Sciences,Physics,Mechanics,2,A
+3,Blue,Omar,Sciences,Physics,Mechanics,3,C
+3,Blue,Omar,Sciences,Physics,Thermodynamics,1,E
+3,Blue,Omar,Sciences,Physics,Thermodynamics,2,C
+3,Blue,Omar,Sciences,Physics,Thermodynamics,3,C
+3,Blue,Omar,Humanities,Geography,Physical Geography,1,C
+3,Blue,Omar,Humanities,Geography,Physical Geography,2,A
+3,Blue,Omar,Humanities,Geography,Physical Geography,3,D
+3,Blue,Omar,Humanities,Geography,Human Geography,1,C
+3,Blue,Omar,Humanities,Geography,Human Geography,2,C
+3,Blue,Omar,Humanities,Geography,Human Geography,3,D
+3,Blue,Omar,Humanities,History,Ancient History,1,E
+3,Blue,Omar,Humanities,History,Ancient History,2,C
+3,Blue,Omar,Humanities,History,Ancient History,3,C
+3,Blue,Omar,Humanities,History,Medieval History,1,D
+3,Blue,Omar,Humanities,History,Medieval History,2,E
+3,Blue,Omar,Humanities,History,Medieval History,3,D
+4,Yellow,Edwin,Languages,English,English Reading,1,B
+4,Yellow,Edwin,Languages,English,English Reading,2,D
+4,Yellow,Edwin,Languages,English,English Reading,3,C
+4,Yellow,Edwin,Languages,English,English Writing,1,B
+4,Yellow,Edwin,Languages,English,English Writing,2,C
+4,Yellow,Edwin,Languages,English,English Writing,3,E
+4,Yellow,Edwin,Languages,Spanish,Vocabulary,1,A
+4,Yellow,Edwin,Languages,Spanish,Vocabulary,2,E
+4,Yellow,Edwin,Languages,Spanish,Vocabulary,3,E
+4,Yellow,Edwin,Languages,Spanish,Spanish Grammar,1,A
+4,Yellow,Edwin,Languages,Spanish,Spanish Grammar,2,C
+4,Yellow,Edwin,Languages,Spanish,Spanish Grammar,3,C
+4,Yellow,Edwin,Sciences,Math,Algebra,1,A
+4,Yellow,Edwin,Sciences,Math,Algebra,2,A
+4,Yellow,Edwin,Sciences,Math,Algebra,3,A
+4,Yellow,Edwin,Sciences,Math,Geometry,1,B
+4,Yellow,Edwin,Sciences,Math,Geometry,2,D
+4,Yellow,Edwin,Sciences,Math,Geometry,3,A
+4,Yellow,Edwin,Sciences,Physics,Mechanics,1,A
+4,Yellow,Edwin,Sciences,Physics,Mechanics,2,A
+4,Yellow,Edwin,Sciences,Physics,Mechanics,3,C
+4,Yellow,Edwin,Sciences,Physics,Thermodynamics,1,C
+4,Yellow,Edwin,Sciences,Physics,Thermodynamics,2,A
+4,Yellow,Edwin,Sciences,Physics,Thermodynamics,3,A
+4,Yellow,Edwin,Humanities,Geography,Physical Geography,1,B
+4,Yellow,Edwin,Humanities,Geography,Physical Geography,2,E
+4,Yellow,Edwin,Humanities,Geography,Physical Geography,3,E
+4,Yellow,Edwin,Humanities,Geography,Human Geography,1,E
+4,Yellow,Edwin,Humanities,Geography,Human Geography,2,D
+4,Yellow,Edwin,Humanities,Geography,Human Geography,3,C
+4,Yellow,Edwin,Humanities,History,Ancient History,1,E
+4,Yellow,Edwin,Humanities,History,Ancient History,2,C
+4,Yellow,Edwin,Humanities,History,Ancient History,3,C
+4,Yellow,Edwin,Humanities,History,Medieval History,1,D
+4,Yellow,Edwin,Humanities,History,Medieval History,2,E
+4,Yellow,Edwin,Humanities,History,Medieval History,3,E
+4,Yellow,Leah,Languages,English,English Reading,1,A
+4,Yellow,Leah,Languages,English,English Reading,2,D
+4,Yellow,Leah,Languages,English,English Reading,3,D
+4,Yellow,Leah,Languages,English,English Writing,1,B
+4,Yellow,Leah,Languages,English,English Writing,2,C
+4,Yellow,Leah,Languages,English,English Writing,3,B
+4,Yellow,Leah,Languages,Spanish,Vocabulary,1,E
+4,Yellow,Leah,Languages,Spanish,Vocabulary,2,B
+4,Yellow,Leah,Languages,Spanish,Vocabulary,3,D
+4,Yellow,Leah,Languages,Spanish,Spanish Grammar,1,D
+4,Yellow,Leah,Languages,Spanish,Spanish Grammar,2,B
+4,Yellow,Leah,Languages,Spanish,Spanish Grammar,3,D
+4,Yellow,Leah,Sciences,Math,Algebra,1,A
+4,Yellow,Leah,Sciences,Math,Algebra,2,A
+4,Yellow,Leah,Sciences,Math,Algebra,3,A
+4,Yellow,Leah,Sciences,Math,Geometry,1,B
+4,Yellow,Leah,Sciences,Math,Geometry,2,A
+4,Yellow,Leah,Sciences,Math,Geometry,3,A
+4,Yellow,Leah,Sciences,Physics,Mechanics,1,A
+4,Yellow,Leah,Sciences,Physics,Mechanics,2,C
+4,Yellow,Leah,Sciences,Physics,Mechanics,3,C
+4,Yellow,Leah,Sciences,Physics,Thermodynamics,1,A
+4,Yellow,Leah,Sciences,Physics,Thermodynamics,2,B
+4,Yellow,Leah,Sciences,Physics,Thermodynamics,3,A
+4,Yellow,Leah,Humanities,Geography,Physical Geography,1,D
+4,Yellow,Leah,Humanities,Geography,Physical Geography,2,C
+4,Yellow,Leah,Humanities,Geography,Physical Geography,3,B
+4,Yellow,Leah,Humanities,Geography,Human Geography,1,B
+4,Yellow,Leah,Humanities,Geography,Human Geography,2,B
+4,Yellow,Leah,Humanities,Geography,Human Geography,3,A
+4,Yellow,Leah,Humanities,History,Ancient History,1,E
+4,Yellow,Leah,Humanities,History,Ancient History,2,A
+4,Yellow,Leah,Humanities,History,Ancient History,3,D
+4,Yellow,Leah,Humanities,History,Medieval History,1,A
+4,Yellow,Leah,Humanities,History,Medieval History,2,A
+4,Yellow,Leah,Humanities,History,Medieval History,3,C
+4,Yellow,Francisco,Languages,English,English Reading,1,B
+4,Yellow,Francisco,Languages,English,English Reading,2,B
+4,Yellow,Francisco,Languages,English,English Reading,3,B
+4,Yellow,Francisco,Languages,English,English Writing,1,A
+4,Yellow,Francisco,Languages,English,English Writing,2,A
+4,Yellow,Francisco,Languages,English,English Writing,3,A
+4,Yellow,Francisco,Languages,Spanish,Vocabulary,1,A
+4,Yellow,Francisco,Languages,Spanish,Vocabulary,2,A
+4,Yellow,Francisco,Languages,Spanish,Vocabulary,3,A
+4,Yellow,Francisco,Languages,Spanish,Spanish Grammar,1,A
+4,Yellow,Francisco,Languages,Spanish,Spanish Grammar,2,A
+4,Yellow,Francisco,Languages,Spanish,Spanish Grammar,3,A
+4,Yellow,Francisco,Sciences,Math,Algebra,1,E
+4,Yellow,Francisco,Sciences,Math,Algebra,2,E
+4,Yellow,Francisco,Sciences,Math,Algebra,3,C
+4,Yellow,Francisco,Sciences,Math,Geometry,1,E
+4,Yellow,Francisco,Sciences,Math,Geometry,2,D
+4,Yellow,Francisco,Sciences,Math,Geometry,3,D
+4,Yellow,Francisco,Sciences,Physics,Mechanics,1,E
+4,Yellow,Francisco,Sciences,Physics,Mechanics,2,D
+4,Yellow,Francisco,Sciences,Physics,Mechanics,3,E
+4,Yellow,Francisco,Sciences,Physics,Thermodynamics,1,E
+4,Yellow,Francisco,Sciences,Physics,Thermodynamics,2,A
+4,Yellow,Francisco,Sciences,Physics,Thermodynamics,3,E
+4,Yellow,Francisco,Humanities,Geography,Physical Geography,1,C
+4,Yellow,Francisco,Humanities,Geography,Physical Geography,2,C
+4,Yellow,Francisco,Humanities,Geography,Physical Geography,3,B
+4,Yellow,Francisco,Humanities,Geography,Human Geography,1,B
+4,Yellow,Francisco,Humanities,Geography,Human Geography,2,C
+4,Yellow,Francisco,Humanities,Geography,Human Geography,3,B
+4,Yellow,Francisco,Humanities,History,Ancient History,1,B
+4,Yellow,Francisco,Humanities,History,Ancient History,2,A
+4,Yellow,Francisco,Humanities,History,Ancient History,3,B
+4,Yellow,Francisco,Humanities,History,Medieval History,1,A
+4,Yellow,Francisco,Humanities,History,Medieval History,2,A
+4,Yellow,Francisco,Humanities,History,Medieval History,3,B
+4,Yellow,Christopher,Languages,English,English Reading,1,B
+4,Yellow,Christopher,Languages,English,English Reading,2,E
+4,Yellow,Christopher,Languages,English,English Reading,3,B
+4,Yellow,Christopher,Languages,English,English Writing,1,B
+4,Yellow,Christopher,Languages,English,English Writing,2,C
+4,Yellow,Christopher,Languages,English,English Writing,3,C
+4,Yellow,Christopher,Languages,Spanish,Vocabulary,1,C
+4,Yellow,Christopher,Languages,Spanish,Vocabulary,2,C
+4,Yellow,Christopher,Languages,Spanish,Vocabulary,3,E
+4,Yellow,Christopher,Languages,Spanish,Spanish Grammar,1,C
+4,Yellow,Christopher,Languages,Spanish,Spanish Grammar,2,E
+4,Yellow,Christopher,Languages,Spanish,Spanish Grammar,3,E
+4,Yellow,Christopher,Sciences,Math,Algebra,1,A
+4,Yellow,Christopher,Sciences,Math,Algebra,2,A
+4,Yellow,Christopher,Sciences,Math,Algebra,3,A
+4,Yellow,Christopher,Sciences,Math,Geometry,1,A
+4,Yellow,Christopher,Sciences,Math,Geometry,2,A
+4,Yellow,Christopher,Sciences,Math,Geometry,3,A
+4,Yellow,Christopher,Sciences,Physics,Mechanics,1,A
+4,Yellow,Christopher,Sciences,Physics,Mechanics,2,B
+4,Yellow,Christopher,Sciences,Physics,Mechanics,3,B
+4,Yellow,Christopher,Sciences,Physics,Thermodynamics,1,A
+4,Yellow,Christopher,Sciences,Physics,Thermodynamics,2,C
+4,Yellow,Christopher,Sciences,Physics,Thermodynamics,3,B
+4,Yellow,Christopher,Humanities,Geography,Physical Geography,1,E
+4,Yellow,Christopher,Humanities,Geography,Physical Geography,2,C
+4,Yellow,Christopher,Humanities,Geography,Physical Geography,3,B
+4,Yellow,Christopher,Humanities,Geography,Human Geography,1,C
+4,Yellow,Christopher,Humanities,Geography,Human Geography,2,A
+4,Yellow,Christopher,Humanities,Geography,Human Geography,3,B
+4,Yellow,Christopher,Humanities,History,Ancient History,1,A
+4,Yellow,Christopher,Humanities,History,Ancient History,2,B
+4,Yellow,Christopher,Humanities,History,Ancient History,3,B
+4,Yellow,Christopher,Humanities,History,Medieval History,1,C
+4,Yellow,Christopher,Humanities,History,Medieval History,2,B
+4,Yellow,Christopher,Humanities,History,Medieval History,3,B
+4,Yellow,Kelly,Languages,English,English Reading,1,B
+4,Yellow,Kelly,Languages,English,English Reading,2,A
+4,Yellow,Kelly,Languages,English,English Reading,3,A
+4,Yellow,Kelly,Languages,English,English Writing,1,C
+4,Yellow,Kelly,Languages,English,English Writing,2,A
+4,Yellow,Kelly,Languages,English,English Writing,3,B
+4,Yellow,Kelly,Languages,Spanish,Vocabulary,1,B
+4,Yellow,Kelly,Languages,Spanish,Vocabulary,2,A
+4,Yellow,Kelly,Languages,Spanish,Vocabulary,3,A
+4,Yellow,Kelly,Languages,Spanish,Spanish Grammar,1,C
+4,Yellow,Kelly,Languages,Spanish,Spanish Grammar,2,A
+4,Yellow,Kelly,Languages,Spanish,Spanish Grammar,3,D
+4,Yellow,Kelly,Sciences,Math,Algebra,1,A
+4,Yellow,Kelly,Sciences,Math,Algebra,2,A
+4,Yellow,Kelly,Sciences,Math,Algebra,3,A
+4,Yellow,Kelly,Sciences,Math,Geometry,1,A
+4,Yellow,Kelly,Sciences,Math,Geometry,2,A
+4,Yellow,Kelly,Sciences,Math,Geometry,3,A
+4,Yellow,Kelly,Sciences,Physics,Mechanics,1,A
+4,Yellow,Kelly,Sciences,Physics,Mechanics,2,A
+4,Yellow,Kelly,Sciences,Physics,Mechanics,3,A
+4,Yellow,Kelly,Sciences,Physics,Thermodynamics,1,A
+4,Yellow,Kelly,Sciences,Physics,Thermodynamics,2,A
+4,Yellow,Kelly,Sciences,Physics,Thermodynamics,3,A
+4,Yellow,Kelly,Humanities,Geography,Physical Geography,1,C
+4,Yellow,Kelly,Humanities,Geography,Physical Geography,2,E
+4,Yellow,Kelly,Humanities,Geography,Physical Geography,3,C
+4,Yellow,Kelly,Humanities,Geography,Human Geography,1,C
+4,Yellow,Kelly,Humanities,Geography,Human Geography,2,E
+4,Yellow,Kelly,Humanities,Geography,Human Geography,3,E
+4,Yellow,Kelly,Humanities,History,Ancient History,1,E
+4,Yellow,Kelly,Humanities,History,Ancient History,2,C
+4,Yellow,Kelly,Humanities,History,Ancient History,3,B
+4,Yellow,Kelly,Humanities,History,Medieval History,1,B
+4,Yellow,Kelly,Humanities,History,Medieval History,2,D
+4,Yellow,Kelly,Humanities,History,Medieval History,3,C
+4,Yellow,Omar,Languages,English,English Reading,1,C
+4,Yellow,Omar,Languages,English,English Reading,2,A
+4,Yellow,Omar,Languages,English,English Reading,3,A
+4,Yellow,Omar,Languages,English,English Writing,1,A
+4,Yellow,Omar,Languages,English,English Writing,2,A
+4,Yellow,Omar,Languages,English,English Writing,3,A
+4,Yellow,Omar,Languages,Spanish,Vocabulary,1,A
+4,Yellow,Omar,Languages,Spanish,Vocabulary,2,A
+4,Yellow,Omar,Languages,Spanish,Vocabulary,3,A
+4,Yellow,Omar,Languages,Spanish,Spanish Grammar,1,A
+4,Yellow,Omar,Languages,Spanish,Spanish Grammar,2,A
+4,Yellow,Omar,Languages,Spanish,Spanish Grammar,3,B
+4,Yellow,Omar,Sciences,Math,Algebra,1,B
+4,Yellow,Omar,Sciences,Math,Algebra,2,C
+4,Yellow,Omar,Sciences,Math,Algebra,3,A
+4,Yellow,Omar,Sciences,Math,Geometry,1,E
+4,Yellow,Omar,Sciences,Math,Geometry,2,C
+4,Yellow,Omar,Sciences,Math,Geometry,3,E
+4,Yellow,Omar,Sciences,Physics,Mechanics,1,C
+4,Yellow,Omar,Sciences,Physics,Mechanics,2,C
+4,Yellow,Omar,Sciences,Physics,Mechanics,3,D
+4,Yellow,Omar,Sciences,Physics,Thermodynamics,1,A
+4,Yellow,Omar,Sciences,Physics,Thermodynamics,2,D
+4,Yellow,Omar,Sciences,Physics,Thermodynamics,3,C
+4,Yellow,Omar,Humanities,Geography,Physical Geography,1,C
+4,Yellow,Omar,Humanities,Geography,Physical Geography,2,C
+4,Yellow,Omar,Humanities,Geography,Physical Geography,3,B
+4,Yellow,Omar,Humanities,Geography,Human Geography,1,E
+4,Yellow,Omar,Humanities,Geography,Human Geography,2,D
+4,Yellow,Omar,Humanities,Geography,Human Geography,3,D
+4,Yellow,Omar,Humanities,History,Ancient History,1,A
+4,Yellow,Omar,Humanities,History,Ancient History,2,C
+4,Yellow,Omar,Humanities,History,Ancient History,3,E
+4,Yellow,Omar,Humanities,History,Medieval History,1,E
+4,Yellow,Omar,Humanities,History,Medieval History,2,C
+4,Yellow,Omar,Humanities,History,Medieval History,3,C
+4,Blue,Edwin,Languages,English,English Reading,1,B
+4,Blue,Edwin,Languages,English,English Reading,2,B
+4,Blue,Edwin,Languages,English,English Reading,3,E
+4,Blue,Edwin,Languages,English,English Writing,1,E
+4,Blue,Edwin,Languages,English,English Writing,2,C
+4,Blue,Edwin,Languages,English,English Writing,3,D
+4,Blue,Edwin,Languages,Spanish,Vocabulary,1,C
+4,Blue,Edwin,Languages,Spanish,Vocabulary,2,E
+4,Blue,Edwin,Languages,Spanish,Vocabulary,3,E
+4,Blue,Edwin,Languages,Spanish,Spanish Grammar,1,A
+4,Blue,Edwin,Languages,Spanish,Spanish Grammar,2,E
+4,Blue,Edwin,Languages,Spanish,Spanish Grammar,3,B
+4,Blue,Edwin,Sciences,Math,Algebra,1,A
+4,Blue,Edwin,Sciences,Math,Algebra,2,A
+4,Blue,Edwin,Sciences,Math,Algebra,3,C
+4,Blue,Edwin,Sciences,Math,Geometry,1,A
+4,Blue,Edwin,Sciences,Math,Geometry,2,C
+4,Blue,Edwin,Sciences,Math,Geometry,3,A
+4,Blue,Edwin,Sciences,Physics,Mechanics,1,A
+4,Blue,Edwin,Sciences,Physics,Mechanics,2,A
+4,Blue,Edwin,Sciences,Physics,Mechanics,3,A
+4,Blue,Edwin,Sciences,Physics,Thermodynamics,1,A
+4,Blue,Edwin,Sciences,Physics,Thermodynamics,2,A
+4,Blue,Edwin,Sciences,Physics,Thermodynamics,3,B
+4,Blue,Edwin,Humanities,Geography,Physical Geography,1,E
+4,Blue,Edwin,Humanities,Geography,Physical Geography,2,C
+4,Blue,Edwin,Humanities,Geography,Physical Geography,3,E
+4,Blue,Edwin,Humanities,Geography,Human Geography,1,D
+4,Blue,Edwin,Humanities,Geography,Human Geography,2,C
+4,Blue,Edwin,Humanities,Geography,Human Geography,3,C
+4,Blue,Edwin,Humanities,History,Ancient History,1,E
+4,Blue,Edwin,Humanities,History,Ancient History,2,D
+4,Blue,Edwin,Humanities,History,Ancient History,3,E
+4,Blue,Edwin,Humanities,History,Medieval History,1,E
+4,Blue,Edwin,Humanities,History,Medieval History,2,C
+4,Blue,Edwin,Humanities,History,Medieval History,3,D
+4,Blue,Leah,Languages,English,English Reading,1,C
+4,Blue,Leah,Languages,English,English Reading,2,D
+4,Blue,Leah,Languages,English,English Reading,3,E
+4,Blue,Leah,Languages,English,English Writing,1,D
+4,Blue,Leah,Languages,English,English Writing,2,D
+4,Blue,Leah,Languages,English,English Writing,3,C
+4,Blue,Leah,Languages,Spanish,Vocabulary,1,E
+4,Blue,Leah,Languages,Spanish,Vocabulary,2,C
+4,Blue,Leah,Languages,Spanish,Vocabulary,3,B
+4,Blue,Leah,Languages,Spanish,Spanish Grammar,1,E
+4,Blue,Leah,Languages,Spanish,Spanish Grammar,2,E
+4,Blue,Leah,Languages,Spanish,Spanish Grammar,3,E
+4,Blue,Leah,Sciences,Math,Algebra,1,A
+4,Blue,Leah,Sciences,Math,Algebra,2,A
+4,Blue,Leah,Sciences,Math,Algebra,3,B
+4,Blue,Leah,Sciences,Math,Geometry,1,A
+4,Blue,Leah,Sciences,Math,Geometry,2,B
+4,Blue,Leah,Sciences,Math,Geometry,3,A
+4,Blue,Leah,Sciences,Physics,Mechanics,1,A
+4,Blue,Leah,Sciences,Physics,Mechanics,2,B
+4,Blue,Leah,Sciences,Physics,Mechanics,3,A
+4,Blue,Leah,Sciences,Physics,Thermodynamics,1,A
+4,Blue,Leah,Sciences,Physics,Thermodynamics,2,B
+4,Blue,Leah,Sciences,Physics,Thermodynamics,3,A
+4,Blue,Leah,Humanities,Geography,Physical Geography,1,B
+4,Blue,Leah,Humanities,Geography,Physical Geography,2,B
+4,Blue,Leah,Humanities,Geography,Physical Geography,3,C
+4,Blue,Leah,Humanities,Geography,Human Geography,1,C
+4,Blue,Leah,Humanities,Geography,Human Geography,2,C
+4,Blue,Leah,Humanities,Geography,Human Geography,3,D
+4,Blue,Leah,Humanities,History,Ancient History,1,C
+4,Blue,Leah,Humanities,History,Ancient History,2,B
+4,Blue,Leah,Humanities,History,Ancient History,3,E
+4,Blue,Leah,Humanities,History,Medieval History,1,A
+4,Blue,Leah,Humanities,History,Medieval History,2,C
+4,Blue,Leah,Humanities,History,Medieval History,3,A
+4,Blue,Francisco,Languages,English,English Reading,1,B
+4,Blue,Francisco,Languages,English,English Reading,2,B
+4,Blue,Francisco,Languages,English,English Reading,3,A
+4,Blue,Francisco,Languages,English,English Writing,1,A
+4,Blue,Francisco,Languages,English,English Writing,2,A
+4,Blue,Francisco,Languages,English,English Writing,3,B
+4,Blue,Francisco,Languages,Spanish,Vocabulary,1,B
+4,Blue,Francisco,Languages,Spanish,Vocabulary,2,A
+4,Blue,Francisco,Languages,Spanish,Vocabulary,3,A
+4,Blue,Francisco,Languages,Spanish,Spanish Grammar,1,A
+4,Blue,Francisco,Languages,Spanish,Spanish Grammar,2,A
+4,Blue,Francisco,Languages,Spanish,Spanish Grammar,3,A
+4,Blue,Francisco,Sciences,Math,Algebra,1,B
+4,Blue,Francisco,Sciences,Math,Algebra,2,C
+4,Blue,Francisco,Sciences,Math,Algebra,3,C
+4,Blue,Francisco,Sciences,Math,Geometry,1,D
+4,Blue,Francisco,Sciences,Math,Geometry,2,D
+4,Blue,Francisco,Sciences,Math,Geometry,3,D
+4,Blue,Francisco,Sciences,Physics,Mechanics,1,E
+4,Blue,Francisco,Sciences,Physics,Mechanics,2,D
+4,Blue,Francisco,Sciences,Physics,Mechanics,3,E
+4,Blue,Francisco,Sciences,Physics,Thermodynamics,1,C
+4,Blue,Francisco,Sciences,Physics,Thermodynamics,2,C
+4,Blue,Francisco,Sciences,Physics,Thermodynamics,3,E
+4,Blue,Francisco,Humanities,Geography,Physical Geography,1,A
+4,Blue,Francisco,Humanities,Geography,Physical Geography,2,A
+4,Blue,Francisco,Humanities,Geography,Physical Geography,3,A
+4,Blue,Francisco,Humanities,Geography,Human Geography,1,A
+4,Blue,Francisco,Humanities,Geography,Human Geography,2,C
+4,Blue,Francisco,Humanities,Geography,Human Geography,3,C
+4,Blue,Francisco,Humanities,History,Ancient History,1,B
+4,Blue,Francisco,Humanities,History,Ancient History,2,C
+4,Blue,Francisco,Humanities,History,Ancient History,3,A
+4,Blue,Francisco,Humanities,History,Medieval History,1,A
+4,Blue,Francisco,Humanities,History,Medieval History,2,A
+4,Blue,Francisco,Humanities,History,Medieval History,3,B
+4,Blue,Christopher,Languages,English,English Reading,1,C
+4,Blue,Christopher,Languages,English,English Reading,2,B
+4,Blue,Christopher,Languages,English,English Reading,3,E
+4,Blue,Christopher,Languages,English,English Writing,1,E
+4,Blue,Christopher,Languages,English,English Writing,2,E
+4,Blue,Christopher,Languages,English,English Writing,3,C
+4,Blue,Christopher,Languages,Spanish,Vocabulary,1,C
+4,Blue,Christopher,Languages,Spanish,Vocabulary,2,C
+4,Blue,Christopher,Languages,Spanish,Vocabulary,3,D
+4,Blue,Christopher,Languages,Spanish,Spanish Grammar,1,D
+4,Blue,Christopher,Languages,Spanish,Spanish Grammar,2,C
+4,Blue,Christopher,Languages,Spanish,Spanish Grammar,3,D
+4,Blue,Christopher,Sciences,Math,Algebra,1,C
+4,Blue,Christopher,Sciences,Math,Algebra,2,B
+4,Blue,Christopher,Sciences,Math,Algebra,3,A
+4,Blue,Christopher,Sciences,Math,Geometry,1,A
+4,Blue,Christopher,Sciences,Math,Geometry,2,C
+4,Blue,Christopher,Sciences,Math,Geometry,3,C
+4,Blue,Christopher,Sciences,Physics,Mechanics,1,A
+4,Blue,Christopher,Sciences,Physics,Mechanics,2,A
+4,Blue,Christopher,Sciences,Physics,Mechanics,3,A
+4,Blue,Christopher,Sciences,Physics,Thermodynamics,1,A
+4,Blue,Christopher,Sciences,Physics,Thermodynamics,2,A
+4,Blue,Christopher,Sciences,Physics,Thermodynamics,3,A
+4,Blue,Christopher,Humanities,Geography,Physical Geography,1,C
+4,Blue,Christopher,Humanities,Geography,Physical Geography,2,A
+4,Blue,Christopher,Humanities,Geography,Physical Geography,3,C
+4,Blue,Christopher,Humanities,Geography,Human Geography,1,E
+4,Blue,Christopher,Humanities,Geography,Human Geography,2,C
+4,Blue,Christopher,Humanities,Geography,Human Geography,3,B
+4,Blue,Christopher,Humanities,History,Ancient History,1,B
+4,Blue,Christopher,Humanities,History,Ancient History,2,C
+4,Blue,Christopher,Humanities,History,Ancient History,3,D
+4,Blue,Christopher,Humanities,History,Medieval History,1,B
+4,Blue,Christopher,Humanities,History,Medieval History,2,D
+4,Blue,Christopher,Humanities,History,Medieval History,3,D
+4,Blue,Kelly,Languages,English,English Reading,1,A
+4,Blue,Kelly,Languages,English,English Reading,2,C
+4,Blue,Kelly,Languages,English,English Reading,3,A
+4,Blue,Kelly,Languages,English,English Writing,1,A
+4,Blue,Kelly,Languages,English,English Writing,2,B
+4,Blue,Kelly,Languages,English,English Writing,3,C
+4,Blue,Kelly,Languages,Spanish,Vocabulary,1,B
+4,Blue,Kelly,Languages,Spanish,Vocabulary,2,B
+4,Blue,Kelly,Languages,Spanish,Vocabulary,3,A
+4,Blue,Kelly,Languages,Spanish,Spanish Grammar,1,B
+4,Blue,Kelly,Languages,Spanish,Spanish Grammar,2,A
+4,Blue,Kelly,Languages,Spanish,Spanish Grammar,3,A
+4,Blue,Kelly,Sciences,Math,Algebra,1,A
+4,Blue,Kelly,Sciences,Math,Algebra,2,B
+4,Blue,Kelly,Sciences,Math,Algebra,3,A
+4,Blue,Kelly,Sciences,Math,Geometry,1,A
+4,Blue,Kelly,Sciences,Math,Geometry,2,A
+4,Blue,Kelly,Sciences,Math,Geometry,3,A
+4,Blue,Kelly,Sciences,Physics,Mechanics,1,A
+4,Blue,Kelly,Sciences,Physics,Mechanics,2,A
+4,Blue,Kelly,Sciences,Physics,Mechanics,3,A
+4,Blue,Kelly,Sciences,Physics,Thermodynamics,1,A
+4,Blue,Kelly,Sciences,Physics,Thermodynamics,2,B
+4,Blue,Kelly,Sciences,Physics,Thermodynamics,3,A
+4,Blue,Kelly,Humanities,Geography,Physical Geography,1,D
+4,Blue,Kelly,Humanities,Geography,Physical Geography,2,E
+4,Blue,Kelly,Humanities,Geography,Physical Geography,3,C
+4,Blue,Kelly,Humanities,Geography,Human Geography,1,D
+4,Blue,Kelly,Humanities,Geography,Human Geography,2,D
+4,Blue,Kelly,Humanities,Geography,Human Geography,3,D
+4,Blue,Kelly,Humanities,History,Ancient History,1,E
+4,Blue,Kelly,Humanities,History,Ancient History,2,E
+4,Blue,Kelly,Humanities,History,Ancient History,3,D
+4,Blue,Kelly,Humanities,History,Medieval History,1,C
+4,Blue,Kelly,Humanities,History,Medieval History,2,E
+4,Blue,Kelly,Humanities,History,Medieval History,3,E
+4,Blue,Omar,Languages,English,English Reading,1,A
+4,Blue,Omar,Languages,English,English Reading,2,A
+4,Blue,Omar,Languages,English,English Reading,3,A
+4,Blue,Omar,Languages,English,English Writing,1,B
+4,Blue,Omar,Languages,English,English Writing,2,A
+4,Blue,Omar,Languages,English,English Writing,3,C
+4,Blue,Omar,Languages,Spanish,Vocabulary,1,A
+4,Blue,Omar,Languages,Spanish,Vocabulary,2,A
+4,Blue,Omar,Languages,Spanish,Vocabulary,3,C
+4,Blue,Omar,Languages,Spanish,Spanish Grammar,1,A
+4,Blue,Omar,Languages,Spanish,Spanish Grammar,2,B
+4,Blue,Omar,Languages,Spanish,Spanish Grammar,3,D
+4,Blue,Omar,Sciences,Math,Algebra,1,C
+4,Blue,Omar,Sciences,Math,Algebra,2,D
+4,Blue,Omar,Sciences,Math,Algebra,3,D
+4,Blue,Omar,Sciences,Math,Geometry,1,A
+4,Blue,Omar,Sciences,Math,Geometry,2,A
+4,Blue,Omar,Sciences,Math,Geometry,3,C
+4,Blue,Omar,Sciences,Physics,Mechanics,1,E
+4,Blue,Omar,Sciences,Physics,Mechanics,2,C
+4,Blue,Omar,Sciences,Physics,Mechanics,3,A
+4,Blue,Omar,Sciences,Physics,Thermodynamics,1,D
+4,Blue,Omar,Sciences,Physics,Thermodynamics,2,E
+4,Blue,Omar,Sciences,Physics,Thermodynamics,3,D
+4,Blue,Omar,Humanities,Geography,Physical Geography,1,E
+4,Blue,Omar,Humanities,Geography,Physical Geography,2,C
+4,Blue,Omar,Humanities,Geography,Physical Geography,3,E
+4,Blue,Omar,Humanities,Geography,Human Geography,1,C
+4,Blue,Omar,Humanities,Geography,Human Geography,2,C
+4,Blue,Omar,Humanities,Geography,Human Geography,3,C
+4,Blue,Omar,Humanities,History,Ancient History,1,D
+4,Blue,Omar,Humanities,History,Ancient History,2,C
+4,Blue,Omar,Humanities,History,Ancient History,3,C
+4,Blue,Omar,Humanities,History,Medieval History,1,E
+4,Blue,Omar,Humanities,History,Medieval History,2,C
+4,Blue,Omar,Humanities,History,Medieval History,3,D
