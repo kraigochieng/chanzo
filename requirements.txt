@@ -1,2 +1,8 @@
 pandas
 Faker
+langchain
+langchain-openai
+python-dotenv
+seaborn
+matplotlib
+numpy
