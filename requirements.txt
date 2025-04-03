@@ -1,8 +1,13 @@
 pandas
 Faker
+langgraph
 langchain
 langchain-openai
+langchain-ollama
+langchain-deepseek
 python-dotenv
 seaborn
 matplotlib
 numpy
+rich
+langgraph-checkpoint-sqlite
