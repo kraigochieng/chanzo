@@ -11,3 +11,8 @@ matplotlib
 numpy
 rich
 langgraph-checkpoint-sqlite
+langmem
+ipykernel
+scipy
+graphviz
+tabulate
