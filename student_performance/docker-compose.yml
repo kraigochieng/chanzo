@@ -1,0 +1,22 @@
+services:
+    chanzo_student_performance_db:
+        image: ankane/pgvector
+        restart: always
+        ports:
+            - "${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_PORT:-5432}:5432"
+        environment:
+            - POSTGRES_USER=${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_USER}
+            - POSTGRES_PASSWORD=${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_PASSWORD}
+            - POSTGRES_DB=${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_NAME}
+        volumes:
+            - chanzo_student_performance_db_data:/var/lib/postgresql/data
+            - ./container_scripts:/docker-entrypoint-initdb.d
+        networks:
+            - chanzo_student_performance_network
+
+volumes:
+    chanzo_student_performance_db_data:
+
+networks:
+    chanzo_student_performance_network:
+        driver: bridge
