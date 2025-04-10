@@ -11,8 +11,13 @@ matplotlib
 numpy
 rich
 langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
 langmem
 ipykernel
 scipy
 graphviz
 tabulate
+sentence-transformers
+ipywidgets
+notebook
+langsmith
