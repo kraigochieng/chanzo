@@ -1,0 +1,20 @@
+def stream_graph_updates(user_input: str):
+    with SqliteSaver.from_conn_string(CHECKPOINTS_DB) as checkpointer:
+        graph = graph_builder.compile(checkpointer=checkpointer, store=in_memory_store)
+
+        graph_input = {"messages": [HumanMessage(user_input)], "text": user_input}
+        for event in graph.stream(input=graph_input, config=config):
+            for key, value in event.items():
+                if key == "classification_node":
+                    console = Console()
+                    print(key)
+                    print("-" * 50)
+                    # md = Markdown(value["classification"])
+                    # console.print(md)
+                    print(value)
+                    print("=" * 50)
+                else:
+                    print(key)
+                    print("-" * 50)
+                    print(value)
+                    print("=" * 50)
