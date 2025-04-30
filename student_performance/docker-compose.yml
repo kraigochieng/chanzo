@@ -3,7 +3,7 @@ services:
         image: ankane/pgvector
         restart: always
         ports:
-            - "${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_PORT:-5432}:5432"
+            - "${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_PORT:-6432}:5432"
         environment:
             - POSTGRES_USER=${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_USER}
             - POSTGRES_PASSWORD=${CHANZO_STUDENT_PERFORMANCE_LONG_TERM_MEMORY_DB_PASSWORD}
@@ -13,9 +13,25 @@ services:
             - ./container_scripts:/docker-entrypoint-initdb.d
         networks:
             - chanzo_student_performance_network
+    chanzo_student_performance_db:
+        image: mysql:8.0.41
+        restart: always
+        ports:
+            - "${CHANZO_DB_PORT:-4306}:3306"
+        environment:
+            - MYSQL_USER=${CHANZO_DB_USER}
+            - MYSQL_PASSWORD=${CHANZO_DB_PASSWORD}
+            - MYSQL_ROOT_PASSWORD=${CHANZO_DB_PASSWORD}
+            - MYSQL_DATABASE=${CHANZO_DB_NAME}
+        volumes:
+            - chanzo_db_data:/var/lib/postgresql/data
+            - ./chanzo_container_scripts:/docker-entrypoint-initdb.d
+        networks:
+            - chanzo_student_performance_network
 
 volumes:
     chanzo_student_performance_db_data:
+    chanzo_db_data:
 
 networks:
     chanzo_student_performance_network:

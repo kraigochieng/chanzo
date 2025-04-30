@@ -1,3 +1,4 @@
 .env
 checkpoints.db
 extra.txt
+chanzo_container_scripts/chanzo_app.sql
