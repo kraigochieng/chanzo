@@ -21,4 +21,5 @@ sentence-transformers
 ipywidgets
 notebook
 langsmith
-fastapi
+fastapi[standard]
+mysql-connector-python
