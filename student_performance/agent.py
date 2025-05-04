@@ -14,7 +14,6 @@ from dummy_data_for_agent import (
 )
 from graph_state import State
 from IPython.display import Image, display
-from langchain.callbacks.base import BaseCallbackHandler
 from langchain_core.messages import (
     HumanMessage,
     SystemMessage,
@@ -101,28 +100,6 @@ conn = sqlite3.connect(CHECKPOINTS_DB)
 # ## Streaming
 
 
-class PrintStreamHandler(BaseCallbackHandler):
-    def on_llm_new_token(self, token: str, **kwargs):
-        print(token, end="", flush=True)
-        sys.stdout.flush()
-
-
-# ## Display Graph
-#
-
-
-with SqliteSaver.from_conn_string(CHECKPOINTS_DB) as checkpointer:
-    # Compile Graph
-    graph = graph_builder.compile(checkpointer=checkpointer)
-
-    # Display Graph
-    try:
-        display(Image(graph.get_graph().draw_mermaid_png()))
-    except Exception as e:
-        print(f"Error when displaying graph: {e}")
-        pass
-
-
 def invoke_full_graph(user_input: str, config: dict) -> State:
     # prompt_with_examples = few_shot_prompt.format(input=user_input)
 
@@ -150,6 +127,9 @@ def invoke_full_graph(user_input: str, config: dict) -> State:
             - Be informative but concise
             - Very simple english
             - Encourage the parent
+            - Do not start the respnse with a title header. Talk like a human. Do not start with 'Here is what I think'
+                          
+            For any question outside of these areas, respond with: "I cannot answer that question, it is out of my scope."
                           
             You will be responding with specific feedback based on the following information:
             - Grades: Numeric scores ranging from 1 to 5.
@@ -173,7 +153,8 @@ def invoke_full_graph(user_input: str, config: dict) -> State:
                 - Talk about entrepreneurship in the career
                 - State the disadvantages of the career
 
-            For any question outside of these areas, respond with: "I cannot answer that question, it is out of my scope."
+            
+            
 
             
             
@@ -209,8 +190,8 @@ def invoke_full_graph(user_input: str, config: dict) -> State:
 
 
 # The thread id will be for a different users
-config_1 = {"configurable": {"thread_id": "1"}, "callbacks": [PrintStreamHandler()]}
-config_2 = {"configurable": {"thread_id": "2"}, "callbacks": [PrintStreamHandler()]}
+# config_1 = {"configurable": {"thread_id": "1"}}
+# config_2 = {"configurable": {"thread_id": "2"}}
 
 
 # ## Prompts
@@ -222,90 +203,90 @@ config_2 = {"configurable": {"thread_id": "2"}, "callbacks": [PrintStreamHandler
 #
 
 
-result = invoke_full_graph(
-    user_input=f"Tell me the most possible grades for each subject for {student_names[0]}",
-    config=config_1,
-)
+# result = invoke_full_graph(
+#     user_input=f"Tell me the most possible grades for each subject for {student_names[0]}",
+#     config=config_1,
+# )
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # ### Strengths and weaknesses of student
 #
 
 
-result = invoke_full_graph(
-    user_input=f"Tell me the strengths and weaknesses of my child {student_names[0]}",
-    config=config_1,
-)
+# result = invoke_full_graph(
+#     user_input=f"Tell me the strengths and weaknesses of my child {student_names[0]}",
+#     config=config_1,
+# )
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # ### Career recommendations
 #
 
 
-result = invoke_full_graph(
-    user_input=f"Recommend a career path for {student_names[0]}", config=config_1
-)
+# result = invoke_full_graph(
+#     user_input=f"Recommend a career path for {student_names[0]}", config=config_1
+# )
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # ### Unnecessary question
 #
 
 
-result = invoke_full_graph(
-    user_input="What is the capital of Nairobi?", config=config_1
-)
+# result = invoke_full_graph(
+#     user_input="What is the capital of Nairobi?", config=config_1
+# )
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # ### Child who does not exist
 #
 
 
-result = invoke_full_graph(user_input="Get output for Ochieng?", config=config_1)
+# result = invoke_full_graph(user_input="Get output for Ochieng?", config=config_1)
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # ### Testing the memory
 #
 
 
-result = invoke_full_graph(
-    user_input="Tell me everything we have talked about before", config=config_1
-)
+# result = invoke_full_graph(
+#     user_input="Tell me everything we have talked about before", config=config_1
+# )
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # ### Testing the scope of memory
 
 
-result = invoke_full_graph(
-    user_input="Tell me everything we have talked about before", config=config_2
-)
+# result = invoke_full_graph(
+#     user_input="Tell me everything we have talked about before", config=config_2
+# )
 
-console = Console()
-md = Markdown(result["messages"][-1].content)
-console.print(md)
+# console = Console()
+# md = Markdown(result["messages"][-1].content)
+# console.print(md)
 
 
 # # What was done
