@@ -169,10 +169,6 @@ def invoke_full_graph(user_input: str, config: dict) -> State:
             Below is the student(s) grades per subject strand together with the probability of getting that grade you will also be referencing:
 
             {strand_prob_table}
-
-            Time Reference:
-            Please ensure all responses include the current date and time in UTC:
-            Current time: {current_time}
         """),
             HumanMessage(user_input),
         ],
